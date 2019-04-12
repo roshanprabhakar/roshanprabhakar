@@ -20,6 +20,10 @@ body {
 
     background-color: black;
 
+    -webkit-transition: fadein 4s;
+    -moz-transition: fadein 4s;
+    -o-transition: fadein 4s;
+
     transition: background-color 4s ease-out;
 
 }
