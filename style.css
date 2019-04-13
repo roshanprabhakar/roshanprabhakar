@@ -20,11 +20,10 @@ body {
 
     background-color: black;
 
-    -webkit-transition: fadein 4s;
-    -moz-transition: fadein 4s;
-    -o-transition: fadein 4s;
-
-    transition: background-color 4s ease-out;
+    -webkit-animation: fadein 4s; /* Safari, Chrome and Opera > 12.1 */
+    -moz-animation: fadein 4s; /* Firefox < 16 */
+    -o-animation: fadein 4s; /* Opera < 12.1 */
+    animation: fadein 4s;
 
 }
 
