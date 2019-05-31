@@ -1,14 +1,5 @@
-<!DOCTYPE html5>
+<!DOCTYPE html>
 
-<script type="text/javascript" src="./jquery-3.3.1.min.js"></script>
-<script src="./removeBanner.js"></script>
-<script type="text/javascript">
-    $(function () {
-        setTimeout(function () {
-            $('.fly-in-text').removeClass('hidden')
-        }, 1000);
-    })();
-</script>
 
 <head>
     <meta charset="utf-8">
@@ -160,6 +151,14 @@
     let jsonUri = "data:text/plain;base64," + window.btoa(JSON.stringify(json));
     particlesJS.load('particles-js', jsonUri);
 </script>
-
+<script type="text/javascript" src="./jquery-3.3.1.min.js"></script>
+<script src="./removeBanner.js"></script>
+<script type="text/javascript">
+    $(function () {
+        setTimeout(function () {
+            $('.fly-in-text').removeClass('hidden')
+        }, 1000);
+    })();
+</script>
 </body>
 
