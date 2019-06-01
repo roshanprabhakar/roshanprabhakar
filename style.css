@@ -1,6 +1,19 @@
+#githublogo {
+    height: 30px;
+    width: 30px;
+}
+
+#guitarimage {
+    height: 35px;
+    width: 78px;
+}
+
+#gmaillogo {
+    height: 40px;
+    width: 40px;
+}
 
 body {
-    background: transparent;
     height: 100vh;
     margin: 0;
     padding: 0;
@@ -14,6 +27,10 @@ body {
     top: 0;
     z-index: -1;
     background: black;
+}
+
+.indexnav {
+    z-index: 3;
 }
 
 .background {
@@ -32,6 +49,7 @@ body {
     margin-top: -200px;
 
     background-color: black;
+    border: 1px solid white;
 
     -webkit-animation: fadein 4s; /* Safari, Chrome and Opera > 12.1 */
     -moz-animation: fadein 4s; /* Firefox < 16 */
@@ -142,6 +160,10 @@ body {
     background: transparent;
     text-align: center;
     margin-left: -40px;
+}
+
+.content {
+    z-index: 999;
 }
 
 .menu-area li a:hover {

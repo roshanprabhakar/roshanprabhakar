@@ -1,3 +1,8 @@
+#homeicon {
+    width: 30px;
+    height: 30px;
+}
+
 #myVideo {
     position: fixed;
     right: 0;
@@ -92,9 +97,9 @@ nav {
 }
 
 .guitar-menu-area li a:hover {
-    background: white;
     -webkit-transition: background-color 500ms linear;
     color: black;
+    background-color: white;
 
 }
 
