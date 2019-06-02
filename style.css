@@ -48,7 +48,7 @@ body {
     margin-left: -300px;
     margin-top: -200px;
 
-    background-color: black;
+    background-color: transparent;
     border: 1px solid white;
 
     -webkit-animation: fadein 4s; /* Safari, Chrome and Opera > 12.1 */
@@ -177,7 +177,9 @@ nav {
     position: absolute;
 
     top: 50%;
-    width: calc(100%);
+    left: 50%;
+    margin-left: -300px;
+    width: 600px;
 
     -webkit-animation: fadein 4s; /* Safari, Chrome and Opera > 12.1 */
     -moz-animation: fadein 4s; /* Firefox < 16 */

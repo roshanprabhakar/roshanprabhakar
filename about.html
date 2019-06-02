@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="about.css">
+    <meta charset="UTF-8">
+    <title>Roshan Prabhakar</title>
+</head>
+
+<script>
+    var descriptions = ['Developer','Student','leader','Musician','Programmer'];
+    let i = 0;
+    while (true) {
+
+        window.setTimeout(function(){
+            $("#dynamicline").fadeOut(200);
+            document.getElementById("dynamicline").innerHTML = descriptions[i];
+            $("#dynamicline").fadeIn(200);
+        }, 600);
+        i++;
+    }
+</script>
+
+<body>
+
+<p id="dynamicline">Roshan Prabhakar</p>
+
+</body>
+</html>

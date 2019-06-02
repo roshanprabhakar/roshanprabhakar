@@ -5,6 +5,12 @@
     <title>Roshan Prabhakar</title>
     <meta charset="utf-8">
     <link rel="stylesheet" type="text/css" href="./style.css">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="./favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="./favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="./favicon/favicon-16x16.png">
+    <link rel="manifest" href="./favicon/site.webmanifest">
+
 </head>
 
 <body>
@@ -14,7 +20,7 @@
 <script src="./particles.js-master/demo/js/app.js"></script>
 
 <div class="content">
-    <div class="background"></div>
+    <!--<div class="background"></div>-->
     <div class="drop">
         <!--<p>Roshan Prabhakar</p>-->
         <ul class="fly-in-text hidden">
@@ -35,128 +41,16 @@
                 <!--<li><a href="mailto:roshan@aprabhakar.com?subject=Inquiry" target=""><img src="gmailicon.png" alt="gmail" id="gmaillogo"-->
                 <li><a href="https://github.com/roshanprabhakar" target="_blank">GitHub</a></li>
                 <li><a href="./guitar.html" target="">Guitar</a></li>
+                <li><a href="./about.html">About</a></li>
                 <li><a href="mailto:roshan@aprabhakar.com?subject=Inquiry" target="">Email</a></li>
             </ul>
         </div>
     </nav>
 </div>
 
-<script>
-    let json = {
-        "particles": {
-            "number": {
-                "value": 53,
-                "density": {
-                    "enable": true,
-                    "value_area": 800
-                }
-            },
-            "color": {
-                "value": "#ffffff"
-            },
-            "shape": {
-                "type": "circle",
-                "stroke": {
-                    "width": 0,
-                    "color": "#000000"
-                },
-                "polygon": {
-                    "nb_sides": 5
-                },
-                "image": {
-                    "src": "img/github.svg",
-                    "width": 100,
-                    "height": 100
-                }
-            },
-            "opacity": {
-                "value": 0.5,
-                "random": false,
-                "anim": {
-                    "enable": false,
-                    "speed": 1,
-                    "opacity_min": 0.1,
-                    "sync": false
-                }
-            },
-            "size": {
-                "value": 3,
-                "random": true,
-                "anim": {
-                    "enable": false,
-                    "speed": 40,
-                    "size_min": 0.1,
-                    "sync": false
-                }
-            },
-            "line_linked": {
-                "enable": true,
-                "distance": 416.8858825003132,
-                "color": "#ffffff",
-                "opacity": 0.09469790382244143,
-                "width": 1.9240886884629838
-            },
-            "move": {
-                "enable": true,
-                "speed": 6,
-                "direction": "none",
-                "random": true,
-                "straight": false,
-                "out_mode": "out",
-                "bounce": false,
-                "attract": {
-                    "enable": false,
-                    "rotateX": 600,
-                    "rotateY": 1200
-                }
-            }
-        },
-        "interactivity": {
-            "detect_on": "canvas",
-            "events": {
-                "onhover": {
-                    "enable": true,
-                    "mode": "repulse"
-                },
-                "onclick": {
-                    "enable": false,
-                    "mode": "bubble"
-                },
-                "resize": true
-            },
-            "modes": {
-                "grab": {
-                    "distance": 400,
-                    "line_linked": {
-                        "opacity": 1
-                    }
-                },
-                "bubble": {
-                    "distance": 400,
-                    "size": 40,
-                    "duration": 2,
-                    "opacity": 8,
-                    "speed": 3
-                },
-                "repulse": {
-                    "distance": 200,
-                    "duration": 0.4
-                },
-                "push": {
-                    "particles_nb": 4
-                },
-                "remove": {
-                    "particles_nb": 2
-                }
-            }
-        },
-        "retina_detect": true
-    };
-    let jsonUri = "data:text/plain;base64," + window.btoa(JSON.stringify(json));
-    particlesJS.load('particles-js', jsonUri);
-</script>
 <script type="text/javascript" src="./jquery-3.3.1.min.js"></script>
 <script src="./removeBanner.js"></script>
+
 <script type="text/javascript">
     $(function () {
         setTimeout(function () {
