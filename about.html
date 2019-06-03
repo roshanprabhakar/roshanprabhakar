@@ -1,5 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
+
+<script src="./removeBanner.js"></script>
+<script type="text/javascript" src="./jquery-3.3.1.min.js"></script>
+
 <head>
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="about.css">
@@ -8,22 +12,30 @@
 </head>
 
 <script>
-    var descriptions = ['Developer','Student','leader','Musician','Programmer'];
-    let i = 0;
-    while (true) {
+    function changeDynamicText() {
 
-        window.setTimeout(function(){
-            $("#dynamicline").fadeOut(200);
+        const descriptions = ["Developer", "Programmer", "Student", "Leader", "Innovator", "Musician"];
+        let i = 0;
+
+        setInterval(function () {
+
+            $("#dynamicline").fadeIn(3000);
+
             document.getElementById("dynamicline").innerHTML = descriptions[i];
-            $("#dynamicline").fadeIn(200);
-        }, 600);
-        i++;
+
+            $("#dynamicline").fadeOut(3000);
+
+            i = i + 1;
+
+            if (i >= descriptions.length) i = 0;
+        }, 6000);
     }
+
 </script>
 
-<body>
+<body onload="changeDynamicText()">
 
-<p id="dynamicline">Roshan Prabhakar</p>
+<p id="dynamicline"></p>
 
 </body>
 </html>
