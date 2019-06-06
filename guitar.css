@@ -47,16 +47,16 @@
 }
 
 .content p {
-    font-family: Open Sans, Arial;
+    font-family: Optima;
 }
 
 .content h1 {
     font-family: Open Sans, Arial;
 }
 
-#contentp1 {
+#guitarcontent {
     text-space: 4px;
-    font-size: 20px;
+    font-size: 14px;
 }
 
 

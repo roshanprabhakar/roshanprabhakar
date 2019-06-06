@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<script src="./removeBanner.js"></script>
 <script type="text/javascript" src="./jquery-3.3.1.min.js"></script>
 
 <head>
@@ -12,30 +11,19 @@
 </head>
 
 <script>
-    function changeDynamicText() {
-
-        const descriptions = ["Developer", "Programmer", "Student", "Leader", "Innovator", "Musician"];
-        let i = 0;
-
-        setInterval(function () {
-
-            $("#dynamicline").fadeIn(3000);
-
-            document.getElementById("dynamicline").innerHTML = descriptions[i];
-
-            $("#dynamicline").fadeOut(3000);
-
-            i = i + 1;
-
-            if (i >= descriptions.length) i = 0;
-        }, 6000);
-    }
-
 </script>
 
-<body onload="changeDynamicText()">
+<body onload="">
+<div id="particles-js"></div>
 
-<p id="dynamicline"></p>
+<script src="./particles.js-master/particles.js"></script>
+<script src="./particles.js-master/aboutapp.js"></script>
+
+<!--<div id="interactivityblock"></div>-->
+<div id="aboutdiv">
+
+</div>
 
 </body>
 </html>
+<script src="./removeBanner.js"></script>
