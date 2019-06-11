@@ -1,0 +1,153 @@
+.aboutmenu-area li a {
+    text-decoration: none;
+    color: #8c8e91;
+    letter-spacing: 4px;
+    font-size: 14px;
+    line-height: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+    transition: background-color 4ms ease-out;
+    position: center;
+    font-weight: 100;
+}
+
+.aboutmenu-area li {
+    display: inline-block;
+    list-style-type: none;
+}
+
+.aboutmenu {
+    background: transparent;
+    text-align: center;
+    margin-left: -40px;
+}
+
+.aboutnav {
+    text-align: center;
+    background: #5e5e5e;
+    /*position: absolute;*/
+
+    top: 0;
+    left: 0;
+    margin-left: 0;
+    width: 100%;
+
+    -webkit-animation: fadein 4s; /* Safari, Chrome and Opera > 12.1 */
+    -moz-animation: fadein 4s; /* Firefox < 16 */
+    -o-animation: fadein 4s; /* Opera < 12.1 */
+    animation: fadein 4s;
+
+    z-index: 2;
+    position: fixed;
+    top: 0;
+}
+
+.aboutmenu-area li a:hover {
+    color: #bec0c4;
+    background: #4c4c4c;
+
+    -webkit-transition: ease-in-out 100ms;
+    -moz-transition: ease-in-out 100ms;
+    -ms-transition: ease-in-out 100ms;
+    -o-transition: ease-in-out 100ms;
+    transition: ease-in-out 100ms;
+
+    border-width: 100px;
+    padding: 10px 25px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+
+}
+
+
+body, html {
+    height: 100%;
+    margin: 0;
+    font: 400 15px/1.8 "Lato", sans-serif;
+    color: #777;
+}
+
+.bgimg-1, .bgimg-2, .bgimg-3, .bgimg-4 {
+    position: relative;
+    opacity: 0.65;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.bgimg-1 {
+    background-image: url("../background.jpg");
+    min-height: 100%;
+}
+
+.bgimg-2 {
+    background-image: url("../guitar.jpg");
+    min-height: 100%;
+}
+
+.bgimg-3 {
+    background-image: url("../background.jpg");
+    min-height: 100%;
+}
+
+.bgimg-4 {
+    background-image: url("../background.jpg");
+    min-height: 100%;
+}
+
+.caption {
+    position: absolute;
+    left: 0;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    color: #000;
+}
+
+.caption span {
+    font-family: "Open Sans";
+}
+
+.caption span.introduction {
+    background-color: #111;
+    color: #fff;
+    padding: 60px;
+    font-size: 25px;
+    letter-spacing: 10px;
+    -webkit-animation-delay: 3s;
+    -moz-animation-delay: 3s;
+    -o-animation-delay: 3s;
+    animation-delay: 3s;
+}
+
+.caption span.youtubebutton:hover {
+    background: #000;
+    -webkit-transition: ease-in-out 100ms;
+    -moz-transition: ease-in-out 100ms;
+    -ms-transition: ease-in-out 100ms;
+    -o-transition: ease-in-out 100ms;
+    transition: ease-in-out 100ms;
+}
+
+h3 {
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    font: 20px "Lato", sans-serif;
+    color: #111;
+}
+
+/* Turn off parallax scrolling for tablets and phones */
+@media only screen and (max-device-width: 1024px) {
+    .bgimg-1, .bgimg-2, .bgimg-3 {
+        background-attachment: scroll;
+    }
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Open Sans'), local('OpenSans'), url('http://themes.googleusercontent.com/static/fonts/opensans/v5/cJZKeOuBrn4kERxqtaUH3T8E0i7KZn-EPnyo3HZu7kw.woff') format('woff');
+}
