@@ -1,6 +1,6 @@
 .aboutmenu-area li a {
     text-decoration: none;
-    color: #8c8e91;
+    color: white;
     letter-spacing: 4px;
     font-size: 14px;
     line-height: 30px;
@@ -32,14 +32,13 @@
     margin-left: 0;
     width: 100%;
 
-    -webkit-animation: fadein 4s; /* Safari, Chrome and Opera > 12.1 */
-    -moz-animation: fadein 4s; /* Firefox < 16 */
-    -o-animation: fadein 4s; /* Opera < 12.1 */
-    animation: fadein 4s;
+    -webkit-animation: fadein 2s; /* Safari, Chrome and Opera > 12.1 */
+    -moz-animation: fadein 2s; /* Firefox < 16 */
+    -o-animation: fadein 2s; /* Opera < 12.1 */
+    animation: fadein 2s;
 
     z-index: 2;
     position: fixed;
-    top: 0;
 }
 
 .aboutmenu-area li a:hover {
@@ -78,22 +77,22 @@ body, html {
 
 }
 .bgimg-1 {
-    background-image: url("../background.jpg");
+    background-image: url("background.jpg");
     min-height: 100%;
 }
 
 .bgimg-2 {
-    background-image: url("../guitar.jpg");
+    background-image: url("guitar.jpg");
     min-height: 100%;
 }
 
 .bgimg-3 {
-    background-image: url("../background.jpg");
+    background-image: url("background.jpg");
     min-height: 100%;
 }
 
 .bgimg-4 {
-    background-image: url("../background.jpg");
+    background-image: url("background.jpg");
     min-height: 100%;
 }
 
