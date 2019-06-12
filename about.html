@@ -38,17 +38,18 @@
 <div id="guitartext" style="color: #777;background-color:white;text-align:center;padding:50px 80px;">
     <h3 style="text-align:center;">Musician</h3>
     <p>For the past 8 years, I have been learning Classical Guitar. With the guidance of my teachers,
-        I have been able to become a better player for myself and my community. Through different performances, r
-        ecitals, and competitions, I strive to bring artistic depth to my community with my artistic skills.</p>
+        I have been able to become a better player for myself and my community. I have learned with many names in the
+        classical music comminuty including Scott Cmiel, Scott Gossage, and Ross Thompson. Through different performances,
+        recitals, and competitions, I strive to bring artistic depth to my community with my artistic skills.</p>
 </div>
 
 <div class="bgimg-2">
     <div class="caption">
-        <span class="introduction" style="background-color:transparent;font-size:25px;color: #f7f7f7;">Classical Guitar</span>
+        <span onclick="scrollToSoloPerformances()" class="performances" style="background-color:transparent;font-size:25px;color: #f7f7f7;">Classical Guitar</span>
     </div>
 </div>
 
-<div style="position:relative;">
+<div id="scrolltofromclassicalguitar" style="position:relative;">
     <div style="color:#ddd;background-color:#282E34;text-align:center;padding:50px 80px;text-align: justify;">
         <p></p>
     </div>
@@ -56,7 +57,7 @@
 
 <div class="bgimg-3">
     <div class="caption">
-        <span class="introduction" style="background-color:transparent;font-size:25px;color: #f7f7f7;">Solo Performances</span>
+        <span onclick="openSoloPerformances()" class="performances" style="background-color:transparent;font-size:25px;color: #f7f7f7;">Solo Performances</span>
     </div>
 </div>
 
@@ -68,7 +69,7 @@
 
 <div class="bgimg-4">
     <div class="caption">
-        <span class="introduction" style="background-color:transparent;font-size:25px;color: #f7f7f7;">Ensemble Performances</span>
+        <span onclick="openEnsemblePerformances()" class="performances" style="background-color:transparent;font-size:25px;color: #f7f7f7;">Ensemble Performances</span>
     </div>
 </div>
 
@@ -90,6 +91,19 @@
 <script>
     function openYoutube() {
         window.open("https://www.youtube.com/playlist?list=PLOUpVYN7N3HIDjHm3qgd4pTUWlNg7UB4R");
+    }
+
+    function openSoloPerformances() {
+        window.open("https://www.youtube.com/playlist?list=PLOUpVYN7N3HLfmbzAVndsUmJnXNEiW0hf");
+    }
+
+    function openEnsemblePerformances() {
+        window.open("https://www.youtube.com/playlist?list=PLOUpVYN7N3HIUq3cGaOFK3nOo4WpKvZ6j");
+    }
+
+    function scrollToSoloPerformances() {
+        document.getElementById('scrolltofromclassicalguitar').scrollIntoView();
+        window.scrollBy(0,100)
     }
 </script>
 
