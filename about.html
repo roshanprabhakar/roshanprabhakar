@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -35,17 +34,19 @@
     </div>
 </div>
 
-<div id="guitartext" style="color: #777;background-color:white;text-align:center;padding:50px 80px;">
+<div style="color: #777;background-color:white;text-align:center;padding:50px 80px;">
     <h3 style="text-align:center;">Musician</h3>
     <p>For the past 8 years, I have been learning Classical Guitar. With the guidance of my teachers,
         I have been able to become a better player for myself and my community. I have learned with many names in the
-        classical music comminuty including Scott Cmiel, Scott Gossage, and Ross Thompson. Through different performances,
+        classical music comminuty including Scott Cmiel, Scott Gossage, and Ross Thompson. Through different
+        performances,
         recitals, and competitions, I strive to bring artistic depth to my community with my artistic skills.</p>
 </div>
 
 <div class="bgimg-2">
     <div class="caption">
-        <span onclick="scrollToSoloPerformances()" id="classicalguitarbutton" class="performances" style="background-color:transparent;font-size:25px;color: #f7f7f7;">Classical Guitar</span>
+        <span onclick="scrollToSoloPerformances()" id="classicalguitarbutton" class="performances"
+              style="background-color:transparent;font-size:25px;color: #f7f7f7;">Classical Guitar</span>
     </div>
 </div>
 
@@ -57,7 +58,8 @@
 
 <div class="bgimg-3">
     <div class="caption">
-        <span onclick="openSoloPerformances()" class="performances" style="background-color:transparent;font-size:25px;color: #f7f7f7;">Solo Performances</span>
+        <span onclick="openSoloPerformances()" class="performances"
+              style="background-color:transparent;font-size:25px;color: #f7f7f7;">Solo Performances</span>
     </div>
 </div>
 
@@ -69,7 +71,8 @@
 
 <div class="bgimg-4">
     <div class="caption">
-        <span onclick="openEnsemblePerformances()" class="performances" style="background-color:transparent;font-size:25px;color: #f7f7f7;">Ensemble Performances</span>
+        <span onclick="openEnsemblePerformances()" class="performances"
+              style="background-color:transparent;font-size:25px;color: #f7f7f7;">Ensemble Performances</span>
     </div>
 </div>
 
@@ -82,6 +85,33 @@
 <div class="bgimg-1">
     <div class="caption">
         <span class="introduction youtubebutton" onclick="openYoutube()">Youtube</span>
+    </div>
+</div>
+
+<div style="color: #777;background-color:white;text-align:center;padding:50px 80px;">
+    <h3 style="text-align:center;">Developer</h3>
+    <p>Along with my pursuits as a musician, I also enjoy programming. For the past couple years, I have worked on
+        multiple projects, with a broad range of applications. Along with the guidance of family, teachers, and friends,
+        I have been able to use
+        my skills to bring a positive impact to my community through my skills. Here are just a few of the projects I
+        feel should be showcased.
+        A full portfolio can be found on my GitHub.</p>
+</div>
+
+<div class="bgimg-5">
+    <div class="caption">
+        <span onclick="openQuizGraderRepo()" class="performances" style="background-color:transparent;font-size:25px;color: black;">QuizGrader</span>
+    </div>
+</div>
+
+
+<div style="position:relative;">
+    <div style="color:#000;background-color:#282E34;text-align:center;padding:50px 80px;text-align: justify;color: white;">
+        <p>Quiz Grader is a simple yet effective tool used to help teachers grade tests and quizes. The software takes
+            electronic copies all tests then allows the test to go through the test and grade each question instead of
+            each test. A teacher using the software would grade all responses to one question, then move on to the next question.
+            According to multiple teachers, this allows teachers to preserve context when grading questions.
+        </p>
     </div>
 </div>
 
@@ -103,7 +133,11 @@
 
     function scrollToSoloPerformances() {
         document.getElementById('scrolltofromclassicalguitar').scrollIntoView();
-        window.scrollBy(0,100)
+        window.scrollBy(0, 100)
+    }
+
+    function openQuizGraderRepo() {
+        window.open("https://github.com/roshanprabhakar/QuizGrader");
     }
 </script>
 

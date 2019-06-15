@@ -26,8 +26,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="33" column="54" selection-start-line="33" selection-start-column="54" selection-end-line="33" selection-end-column="54" />
+            <state relative-caret-position="416">
+              <caret line="126" column="46" lean-forward="true" selection-start-line="126" selection-start-column="46" selection-end-line="126" selection-end-column="46" />
               <folding>
                 <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h3#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -40,6 +40,11 @@
                 <element signature="n#style#0;n#span#0;n#div#0;n#div#6;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#9;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h3#0;n#div#9;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#div#0;n#div#10;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#11;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#11;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -48,10 +53,15 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/about.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="115" column="20" lean-forward="true" selection-start-line="115" selection-start-column="20" selection-end-line="115" selection-end-column="20" />
+            <state relative-caret-position="1500">
+              <caret line="100" column="18" selection-start-line="100" selection-start-column="18" selection-end-line="100" selection-end-column="18" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/QGLogo.png">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -223,7 +233,9 @@
       <workItem from="1560058265297" duration="988000" />
       <workItem from="1560198386365" duration="6131000" />
       <workItem from="1560225597560" duration="11795000" />
-      <workItem from="1560371018765" duration="248000" />
+      <workItem from="1560371018765" duration="5558000" />
+      <workItem from="1560448632919" duration="1119000" />
+      <workItem from="1560622642094" duration="328000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1553223357661</created>
@@ -407,17 +419,24 @@
       <option name="project" value="LOCAL" />
       <updated>1560304320210</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="fixed font mismatch">
+      <created>1560371327637</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1560371327639</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="106336000" />
+    <option name="totallyTimeSpent" value="113093000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15164521" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15593705" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -485,7 +504,8 @@
     <MESSAGE value="added animations and link to youtube" />
     <MESSAGE value="added unversioned files" />
     <MESSAGE value="fixed fonts" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixed fonts" />
+    <MESSAGE value="fixed font mismatch" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed font mismatch" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$USER_HOME$/Programming/ScottCmiel-master/index.html">
@@ -563,6 +583,9 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/QGLogo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2790">
@@ -579,15 +602,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/about.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="115" column="20" lean-forward="true" selection-start-line="115" selection-start-column="20" selection-end-line="115" selection-end-column="20" />
+        <state relative-caret-position="1500">
+          <caret line="100" column="18" selection-start-line="100" selection-start-column="18" selection-end-line="100" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/about.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="33" column="54" selection-start-line="33" selection-start-column="54" selection-end-line="33" selection-end-column="54" />
+        <state relative-caret-position="416">
+          <caret line="126" column="46" lean-forward="true" selection-start-line="126" selection-start-column="46" selection-end-line="126" selection-end-column="46" />
           <folding>
             <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h3#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -600,6 +623,11 @@
             <element signature="n#style#0;n#span#0;n#div#0;n#div#6;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#9;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h3#0;n#div#9;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#10;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#11;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#11;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
