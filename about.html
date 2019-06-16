@@ -23,6 +23,7 @@
             <li><a href="index.html" target="">Home</a></li>
             <li><a href="about.html" target="">About</a></li>
             <li><a href="https://github.com/roshanprabhakar" target="_blank">GitHub</a></li>
+            <li><a href="https://www.youtube.com/channel/UCW_vEJuyZRK67az4vhdO7Xg?view_as=subscriber">Youtube</a></li>
             <li><a href="mailto:roshan@aprabhakar.com?subject=Inquiry" target="">Email</a></li>
         </ul>
     </div>
@@ -110,7 +111,6 @@
     </div>
 </div>
 
-
 <div style="position:relative;">
     <div style="color:white;background-color:#282E34;text-align:center;padding:50px 80px;text-align: justify;color: white;">
         <p>Quiz Grader is a simple yet effective tool used to help teachers grade tests and quizes. The software takes
@@ -118,6 +118,28 @@
             each test. A teacher using the software would grade all responses to one question, then move on to the next
             question.
             According to multiple teachers, this allows teachers to preserve context when grading questions.
+        </p>
+    </div>
+</div>
+
+<div class="bgimg-6">
+    <div class="caption">
+        <span onclick="openFlowerClassifier()" class="performances"
+              style="background-color:transparent;font-size:25px;color: black;">Flower Classifier</span>
+    </div>
+</div>
+
+<div style="position:relative;">
+    <div style="color:white;background-color:#282E34;text-align:center;padding:50px 80px;text-align: justify;color: white;">
+        <p>FlowerClassifier is a program that trains a perceptron to classify a flower as one of three categories.
+            Trained using data from the Iris data set, the trained perceptron can classify a flower as a Setosa,
+            Virginica, or Versicolor flower. In the versioned code, epochs currently set to 50000 but can be tinkered
+            with. versioned code classifying for Setosa based on sepal-length and sepal-width. Current accuracy: 98.7%,
+            also generates a map of error for different weight values (look at map generating implementation to read
+            map). Attached is the desmos visualization for the linear separation the perceptron generates. Currently,
+            linear, quadratic, cubic, and fifth power regression models are graphed, but the perceptron can generate
+            higher orders of regression. The desmos graph is charted as follow: x: sepal length, y: sepal width.
+            <br>Desmos model: http://separationmodel.ml/
         </p>
     </div>
 </div>
@@ -145,6 +167,10 @@
 
     function openQuizGraderRepo() {
         window.open("https://github.com/roshanprabhakar/QuizGrader");
+    }
+
+    function openFlowerClassifier() {
+        window.open("https://github.com/roshanprabhakar/FlowerClassifier");
     }
 </script>
 

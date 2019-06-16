@@ -67,7 +67,7 @@ body, html {
     /*color: #777;*/
 }
 
-.bgimg-1, .bgimg-2, .bgimg-3, .bgimg-4, .bgimg-5 {
+.bgimg-1, .bgimg-2, .bgimg-3, .bgimg-4, .bgimg-5, .bgimg-6 {
     position: relative;
     opacity: 0.65;
     background-attachment: fixed;
@@ -99,6 +99,11 @@ body, html {
 .bgimg-5 {
     background-image: url("QGLogo.png");
     min-height: 70%;
+}
+
+.bgimg-6 {
+    background-image: url("FlowerClassifier.png");
+    min-height: 80%;
 }
 
 .caption {
