@@ -131,15 +131,27 @@
 
 <div style="position:relative;">
     <div style="color:white;background-color:#282E34;text-align:center;padding:50px 80px;text-align: justify;color: white;">
-        <p>FlowerClassifier is a program that trains a perceptron to classify a flower as one of three categories.
-            Trained using data from the Iris data set, the trained perceptron can classify a flower as a Setosa,
-            Virginica, or Versicolor flower. In the versioned code, epochs currently set to 50000 but can be tinkered
-            with. versioned code classifying for Setosa based on sepal-length and sepal-width. Current accuracy: 98.7%,
-            also generates a map of error for different weight values (look at map generating implementation to read
-            map). Attached is the desmos visualization for the linear separation the perceptron generates. Currently,
-            linear, quadratic, cubic, and fifth power regression models are graphed, but the perceptron can generate
-            higher orders of regression. The desmos graph is charted as follow: x: sepal length, y: sepal width.
-            <br>Desmos model: http://separationmodel.ml/
+        <p>This program trains a perceptron to classify a flower as a Setosa, Virginica, or Versicolor. Trained with the
+            Iris dataset, current classification yields 99% accuracy. Program also generates an error map. See map
+            implementation to read map. The regression model can be viewed at this link.
+            Currently, x: sepal-length, y: sepal-width, but higher dimension classification is possible, but not
+            visually presentable. first-fifth power regression models are graphed, but higher orders are possible.
+            <br>http://separationmodel.ml
+        </p>
+    </div>
+</div>
+
+<div class="bgimg-7">
+    <div class="caption">
+        <span onclick="openFhsProgrammingClub()" class="performances"
+              style="background-color:transparent;font-size:25px;color: black;">Fhs Programming Club Website</span>
+    </div>
+</div>
+
+<div style="position:relative;">
+    <div style="color:white;background-color:#282E34;text-align:center;padding:50px 80px;text-align: justify;color: white;">
+        <p>
+            I developed the Fremont High School Programming Club Website between my Sophomore and Junior years.
         </p>
     </div>
 </div>
@@ -148,6 +160,10 @@
 </html>
 
 <script>
+    function openFhsProgrammingCLub() {
+        window.open("http://fhsprogramming.com");
+    }
+
     function openYoutube() {
         window.open("https://www.youtube.com/playlist?list=PLOUpVYN7N3HIDjHm3qgd4pTUWlNg7UB4R");
     }

@@ -67,7 +67,7 @@ body, html {
     /*color: #777;*/
 }
 
-.bgimg-1, .bgimg-2, .bgimg-3, .bgimg-4, .bgimg-5, .bgimg-6 {
+.bgimg-1, .bgimg-2, .bgimg-3, .bgimg-4, .bgimg-5, .bgimg-6, .bgimg-7 {
     position: relative;
     opacity: 0.65;
     background-attachment: fixed;
@@ -103,6 +103,15 @@ body, html {
 
 .bgimg-6 {
     background-image: url("FlowerClassifier.png");
+    -webkit-background-size: 800px;
+    background-size: 800px;
+    min-height: 90%;
+}
+
+.bgimg-7 {
+    background-image: url("proclublogo.png");
+    -webkit-background-size: 300px;
+    background-size: 300px;
     min-height: 90%;
 }
 
