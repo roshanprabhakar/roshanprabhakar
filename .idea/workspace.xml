@@ -3,10 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1e183dbe-9e4a-4d2d-a62b-e22dd16e321e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.css" beforeDir="false" afterPath="$PROJECT_DIR$/about.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,10 +30,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="641">
+            <state relative-caret-position="862">
               <caret line="192" column="28" selection-start-line="192" selection-start-column="28" selection-end-line="192" selection-end-column="28" />
               <folding>
                 <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -67,11 +63,44 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/about.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="467">
               <caret line="177" column="32" selection-start-line="177" selection-start-column="32" selection-end-line="177" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/particles.js-master/demo/js/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="477">
+              <caret line="100" column="36" lean-forward="true" selection-start-line="100" selection-start-column="36" selection-end-line="100" selection-end-column="36" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/particles.js-master/demo/particles.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="731">
+              <caret line="109" column="1" selection-start-line="109" selection-start-column="1" selection-end-line="109" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/particles.js-master/particles.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="494">
+              <caret line="58" column="22" lean-forward="true" selection-start-line="58" selection-start-column="22" selection-end-line="58" selection-end-column="22" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -96,7 +125,6 @@
       <list>
         <option value="$PROJECT_DIR$/removeBanner.js" />
         <option value="$PROJECT_DIR$/Plan.txt" />
-        <option value="$PROJECT_DIR$/particles.js-master/demo/js/app.js" />
         <option value="$PROJECT_DIR$/guitar.css" />
         <option value="$PROJECT_DIR$/particles.js-master/aboutapp.js" />
         <option value="$PROJECT_DIR$/about/about.html" />
@@ -107,6 +135,9 @@
         <option value="$PROJECT_DIR$/style.css" />
         <option value="$PROJECT_DIR$/about.html" />
         <option value="$PROJECT_DIR$/about.css" />
+        <option value="$PROJECT_DIR$/particles.js-master/particles.js" />
+        <option value="$PROJECT_DIR$/particles.js-master/demo/particles.json" />
+        <option value="$PROJECT_DIR$/particles.js-master/demo/js/app.js" />
       </list>
     </option>
   </component>
@@ -129,6 +160,30 @@
             <path>
               <item name="RoshanPrabhakar" type="b2602c69:ProjectViewProjectNode" />
               <item name="RoshanPrabhakar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RoshanPrabhakar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RoshanPrabhakar" type="462c0819:PsiDirectoryNode" />
+              <item name="particles.js-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RoshanPrabhakar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RoshanPrabhakar" type="462c0819:PsiDirectoryNode" />
+              <item name="particles.js-master" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RoshanPrabhakar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RoshanPrabhakar" type="462c0819:PsiDirectoryNode" />
+              <item name="particles.js-master" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RoshanPrabhakar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RoshanPrabhakar" type="462c0819:PsiDirectoryNode" />
+              <item name="particles.js-master" type="462c0819:PsiDirectoryNode" />
+              <item name="particles.js" type="620a8d5e:NestingTreeNode" />
             </path>
           </expand>
           <select />
@@ -251,7 +306,7 @@
       <workItem from="1562360234071" duration="605000" />
       <workItem from="1562369189716" duration="322000" />
       <workItem from="1562371224967" duration="1397000" />
-      <workItem from="1562391475275" duration="824000" />
+      <workItem from="1562391475275" duration="1012000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1553223357661</created>
@@ -533,16 +588,24 @@
       <option name="project" value="LOCAL" />
       <updated>1562373938273</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="altered particles config. Also added animations and links for about page">
+      <created>1562392486339</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1562392486339</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="140936000" />
+    <option name="totallyTimeSpent" value="141124000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17811158" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17811158" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -588,7 +651,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added video for guitar" />
     <MESSAGE value="added footmark remover" />
     <MESSAGE value="added particles.js" />
     <MESSAGE value="reformatted particles.js" />
@@ -613,7 +675,8 @@
     <MESSAGE value="updated youtube links" />
     <MESSAGE value="changed font styles for menu and title" />
     <MESSAGE value="added Montserrat Font" />
-    <option name="LAST_COMMIT_MESSAGE" value="added Montserrat Font" />
+    <MESSAGE value="altered particles config. Also added animations and links for about page" />
+    <option name="LAST_COMMIT_MESSAGE" value="altered particles config. Also added animations and links for about page" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$USER_HOME$/Programming/ScottCmiel-master/index.html">
@@ -661,16 +724,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/particles.js-master/demo/js/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/particles.js-master/bower.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -711,9 +764,59 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="155" column="33" selection-start-line="155" selection-start-column="33" selection-end-line="155" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="467">
+          <caret line="177" column="32" selection-start-line="177" selection-start-column="32" selection-end-line="177" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/particles.js-master/particles.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/particles.js-master/particles.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="58" column="22" lean-forward="true" selection-start-line="58" selection-start-column="22" selection-end-line="58" selection-end-column="22" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/particles.js-master/demo/particles.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="109" column="1" selection-start-line="109" selection-start-column="1" selection-end-line="109" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/particles.js-master/demo/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="477">
+          <caret line="100" column="36" lean-forward="true" selection-start-line="100" selection-start-column="36" selection-end-line="100" selection-end-column="36" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/about.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="641">
+        <state relative-caret-position="862">
           <caret line="192" column="28" selection-start-line="192" selection-start-column="28" selection-end-line="192" selection-end-column="28" />
           <folding>
             <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -739,20 +842,6 @@
             <element signature="n#style#0;n#div#15;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#15;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="155" column="33" selection-start-line="155" selection-start-column="33" selection-end-line="155" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/about.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="467">
-          <caret line="177" column="32" selection-start-line="177" selection-start-column="32" selection-end-line="177" selection-end-column="32" />
         </state>
       </provider>
     </entry>

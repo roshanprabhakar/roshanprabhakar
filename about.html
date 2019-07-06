@@ -58,7 +58,7 @@
 <div class="bgimg-3">
     <div class="caption">
         <span onclick="openSoloPerformances()" class="performances"
-              style="background-color:transparent;font-size:25px;color: #f7f7f7;">Solo Performances</span>
+              style="background-color:transparent;font-size:25px;color: #f7f7f7;" id="solo-performances">Solo Performances</span>
     </div>
 </div>
 
@@ -174,8 +174,11 @@
     }
 
     function scrollToSoloPerformances() {
-        document.getElementById('scrolltofromclassicalguitar').scrollIntoView();
-        window.scrollBy(0, 100)
+        document.getElementById('solo-performances').scrollIntoView({
+            behavior: 'smooth',
+            block: 'center',
+            inline: 'center'
+        });
     }
 
     function openQuizGraderRepo() {
