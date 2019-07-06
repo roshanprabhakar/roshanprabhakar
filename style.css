@@ -149,6 +149,11 @@ body {
     transition: background-color 500ms ease-out;
     position: center;
     font-weight: 100;
+    -webkit-transition: ease-in-out 0.2s;
+    -moz-transition: ease-in-out 0.2s;
+    -ms-transition: ease-in-out 0.2s;
+    -o-transition: ease-in-out 0.2s;
+    transition: ease-in-out 0.2s;
 }
 
 .menu-area li {

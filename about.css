@@ -6,9 +6,14 @@
     line-height: 30px;
     margin-left: 30px;
     margin-right: 30px;
-    transition: background-color 4ms ease-out;
     position: center;
     font-weight: 100;
+
+    -webkit-transition: ease-in-out 0.2s;
+    -moz-transition: ease-in-out 0.2s;
+    -ms-transition: ease-in-out 0.2s;
+    -o-transition: ease-in-out 0.2s;
+    transition: ease-in-out 0.2s;
 }
 
 .aboutmenu-area li {
@@ -134,6 +139,15 @@ body, html {
     padding: 60px;
     font-size: 25px;
     letter-spacing: 10px;
+    -webkit-transition: ease-in-out 0.2s;
+    -moz-transition: ease-in-out 0.2s;
+    -ms-transition: ease-in-out 0.2s;
+    -o-transition: ease-in-out 0.2s;
+    transition: ease-in-out 0.2s;
+}
+
+.caption span.introduction:hover {
+    background: #000;
 }
 
 
@@ -143,6 +157,11 @@ body, html {
     padding: 0;
     font-size: 25px;
     letter-spacing: 10px;
+    -webkit-transition: ease-in-out 0.2s;
+    -moz-transition: ease-in-out 0.2s;
+    -ms-transition: ease-in-out 0.2s;
+    -o-transition: ease-in-out 0.2s;
+    transition: ease-in-out 0.2s;
 }
 
 .caption span.performances:hover {
@@ -152,11 +171,11 @@ body, html {
 .caption span.youtubebutton:hover {
     background: #000;
 
-    -webkit-transition: ease-in-out 100ms;
-    -moz-transition: ease-in-out 100ms;
-    -ms-transition: ease-in-out 100ms;
-    -o-transition: ease-in-out 100ms;
-    transition: ease-in-out 100ms;
+    -webkit-transition: ease-in-out 0.2s;
+    -moz-transition: ease-in-out 0.2s;
+    -ms-transition: ease-in-out 0.2s;
+    -o-transition: ease-in-out 0.2s;
+    transition: ease-in-out 0.2s;
 }
 
 h3 {

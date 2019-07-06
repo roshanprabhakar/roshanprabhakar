@@ -17,9 +17,6 @@
 <nav class="aboutnav">
     <div class="aboutmenu">
         <ul class="aboutmenu-area">
-            <!--<li><a href="https://github.com/roshanprabhakar" target="_blank"><img src="githubicon.png" alt="github" id="githublogo" class="imageicon"></a></li>-->
-            <!--<li><a href="./guitar.html" target=""><img src="guitaricon.png" alt="guitar" id="guitarimage" class="imageicon"></a></li>-->
-            <!--<li><a href="mailto:roshan@aprabhakar.com?subject=Inquiry" target=""><img src="gmailicon.png" alt="gmail" id="gmaillogo"-->
             <li><a href="index.html" target="">Home</a></li>
             <li><a href="about.html" target="">About</a></li>
             <li><a href="https://github.com/roshanprabhakar" target="_blank">GitHub</a></li>
@@ -31,11 +28,11 @@
 
 <div class="bgimg-1">
     <div class="caption expandOpen">
-        <span class="introduction slideUp">ABOUT ME</span>
+        <span class="introduction slideUp" onclick="scrollToMusicians()">ABOUT ME</span>
     </div>
 </div>
 
-<div style="color: #777;background-color:white;text-align:center;padding:50px 80px;">
+<div style="color: #777;background-color:white;text-align:center;padding:50px 80px;" id="musician">
     <h3 style="text-align:center;">Musician</h3>
     <p>For the past 8 years, I have been learning Classical Guitar. With the guidance of my teachers,
         I have been able to become a better player for myself and my community. I have learned with many names in the
@@ -188,6 +185,15 @@
     function openFlowerClassifier() {
         window.open("https://github.com/roshanprabhakar/FlowerClassifier");
     }
+
+    function scrollToMusicians() {
+        document.getElementById("musician").scrollIntoView({
+            behavior: "smooth",
+            block: "center",
+            inline: "center"
+        })
+    }
+
 </script>
 
 <script rel="script" src="removeBanner.js"></script>
