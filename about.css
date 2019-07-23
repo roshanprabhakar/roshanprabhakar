@@ -148,14 +148,14 @@ body, html {
 
 .caption span.introduction:hover {
     background: #000;
+    cursor: pointer;
 }
-
 
 .caption span.performances {
     background-color: #111;
     color: #fff;
     padding: 0;
-    font-size: 25px;
+    font-size: 30px;
     letter-spacing: 10px;
     -webkit-transition: ease-in-out 0.2s;
     -moz-transition: ease-in-out 0.2s;
@@ -166,6 +166,7 @@ body, html {
 
 .caption span.performances:hover {
     letter-spacing: 11px;
+    cursor: pointer;
 }
 
 .caption span.youtubebutton:hover {
@@ -180,6 +181,7 @@ body, html {
 
 .description {
     font-family: Montserrat;
+    font-size: 20px;
 }
 
 h3 {
