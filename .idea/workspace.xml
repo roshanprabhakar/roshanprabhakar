@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1e183dbe-9e4a-4d2d-a62b-e22dd16e321e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.css" beforeDir="false" afterPath="$PROJECT_DIR$/about.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-    </list>
+    <list default="true" id="1e183dbe-9e4a-4d2d-a62b-e22dd16e321e" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,11 +28,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="139" column="21" selection-start-line="139" selection-start-column="21" selection-end-line="139" selection-end-column="21" />
+            <state relative-caret-position="203">
+              <caret line="142" column="10" lean-forward="true" selection-start-line="142" selection-start-column="10" selection-end-line="142" selection-end-column="10" />
               <folding>
                 <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h3#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -65,7 +61,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/about.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="626">
@@ -138,8 +134,8 @@
         <option value="$PROJECT_DIR$/particles.js-master/particles.js" />
         <option value="$PROJECT_DIR$/particles.js-master/demo/particles.json" />
         <option value="$PROJECT_DIR$/particles.js-master/demo/js/app.js" />
-        <option value="$PROJECT_DIR$/about.html" />
         <option value="$PROJECT_DIR$/about.css" />
+        <option value="$PROJECT_DIR$/about.html" />
       </list>
     </option>
   </component>
@@ -312,7 +308,7 @@
       <workItem from="1562395543347" duration="138000" />
       <workItem from="1562435526007" duration="42000" />
       <workItem from="1563818812351" duration="2966000" />
-      <workItem from="1563857990109" duration="496000" />
+      <workItem from="1563857990109" duration="1174000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1553223357661</created>
@@ -629,15 +625,21 @@
       <option name="project" value="LOCAL" />
       <updated>1563849767431</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="hyperlinked regression model for flower classifier">
+      <created>1563858667017</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1563858667017</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="144766000" />
+    <option name="totallyTimeSpent" value="145444000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13844515" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -685,7 +687,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added script animations on about page" />
     <MESSAGE value="added about page stylings" />
     <MESSAGE value="added parallax affect to about page" />
     <MESSAGE value="added second section in about, fixed menues" />
@@ -710,7 +711,8 @@
     <MESSAGE value="changed font stylings of about me descriptions" />
     <MESSAGE value="fixed font sizes, changed hover stylings for youtube links" />
     <MESSAGE value="changed programming club website to Compression Forum Project" />
-    <option name="LAST_COMMIT_MESSAGE" value="changed programming club website to Compression Forum Project" />
+    <MESSAGE value="hyperlinked regression model for flower classifier" />
+    <option name="LAST_COMMIT_MESSAGE" value="hyperlinked regression model for flower classifier" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$USER_HOME$/Programming/ScottCmiel-master/index.html">
@@ -841,10 +843,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/about.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="626">
+          <caret line="189" column="20" selection-start-line="189" selection-start-column="20" selection-end-line="189" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/about.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="139" column="21" selection-start-line="139" selection-start-column="21" selection-end-line="139" selection-end-column="21" />
+        <state relative-caret-position="203">
+          <caret line="142" column="10" lean-forward="true" selection-start-line="142" selection-start-column="10" selection-end-line="142" selection-end-column="10" />
           <folding>
             <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h3#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -869,13 +878,6 @@
             <element signature="n#style#0;n#div#15;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#15;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/about.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="626">
-          <caret line="189" column="20" selection-start-line="189" selection-start-column="20" selection-end-line="189" selection-end-column="20" />
         </state>
       </provider>
     </entry>
