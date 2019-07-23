@@ -81,6 +81,7 @@ body, html {
     background-size: cover;
 
 }
+
 .bgimg-1 {
     background-image: url("background.jpg");
     min-height: 100%;
@@ -183,6 +184,10 @@ body, html {
 .description {
     font-family: Montserrat;
     font-size: 20px;
+}
+
+#separationModel:hover {
+    cursor: pointer;
 }
 
 h3 {

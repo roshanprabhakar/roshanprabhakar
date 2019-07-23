@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-<html>
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -137,11 +136,10 @@
         <p class="description">Flower Classifier trains a perceptron to classify a flower as a Setosa, Virginica, or
             Versicolor. Trained with the
             Iris dataset, current classification yields 99% accuracy. Program also generates an error map. See map
-            implementation to read map. The regression model can be viewed at this link.
+            implementation to read map. The regression model can be viewed <em on onclick="openSeparationModel()">at this link</em>.
             Currently, x: sepal-length, y: sepal-width, but higher dimension classification is possible, but not
             visually presentable. first-fifth power regression models are graphed, but higher orders are possible.
-            <br>http://separationmodel.ml
-        </p>
+        </em>
     </div>
 </div>
 
@@ -166,6 +164,10 @@
 </html>
 
 <script>
+    function openSeparationModel() {
+        window.open("http://separationmodel.ml");
+    }
+
     function openFacialHAAC() {
         window.open("https://github.com/roshanprabhakar/FacialHAAC");
     }
