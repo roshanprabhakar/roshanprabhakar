@@ -178,6 +178,10 @@ body, html {
     transition: ease-in-out 0.2s;
 }
 
+.description {
+    font-family: Montserrat;
+}
+
 h3 {
     letter-spacing: 5px;
     text-transform: uppercase;
