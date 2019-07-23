@@ -114,9 +114,10 @@ body, html {
 }
 
 .bgimg-7 {
-    background-image: url("proclublogo.png");
-    -webkit-background-size: 300px;
-    background-size: 300px;
+    background-image: url("shtem.png");
+    -webkit-background-size: 600px;
+    background-size: 1500px;
+    opacity: 1;
     min-height: 90%;
 }
 
