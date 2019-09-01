@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="1e183dbe-9e4a-4d2d-a62b-e22dd16e321e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.css" beforeDir="false" afterPath="$PROJECT_DIR$/about.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -161,7 +162,10 @@
       <workItem from="1566707633535" duration="54000" />
       <workItem from="1567021848931" duration="28000" />
       <workItem from="1567021904480" duration="1400000" />
-      <workItem from="1567044423722" duration="2149000" />
+      <workItem from="1567044423722" duration="2835000" />
+      <workItem from="1567126739969" duration="919000" />
+      <workItem from="1567127697437" duration="3716000" />
+      <workItem from="1567318699823" duration="452000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1553223357661</created>
@@ -485,7 +489,14 @@
       <option name="project" value="LOCAL" />
       <updated>1563858667017</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="added experimental menu bar">
+      <created>1567047143213</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1567047143213</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -505,7 +516,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added about page stylings" />
     <MESSAGE value="added parallax affect to about page" />
     <MESSAGE value="added second section in about, fixed menues" />
     <MESSAGE value="adding unversioned res files" />
@@ -530,6 +540,7 @@
     <MESSAGE value="fixed font sizes, changed hover stylings for youtube links" />
     <MESSAGE value="changed programming club website to Compression Forum Project" />
     <MESSAGE value="hyperlinked regression model for flower classifier" />
-    <option name="LAST_COMMIT_MESSAGE" value="hyperlinked regression model for flower classifier" />
+    <MESSAGE value="added experimental menu bar" />
+    <option name="LAST_COMMIT_MESSAGE" value="added experimental menu bar" />
   </component>
 </project>

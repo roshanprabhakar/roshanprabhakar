@@ -247,42 +247,6 @@ body {
     }
 }
 
-
-@media (max-width: 1000px) {
-    /*.nav1 {*/
-    /*    padding: 2px;*/
-    /*    background: rgba(41, 41, 41, 0.4);*/
-    /*    width: 100%;*/
-
-    /*    position: absolute;*/
-    /*    top: 0;*/
-    /*    left: 0;*/
-    /*    margin-left: 0;*/
-    /*}*/
-
-    /*.nav1 ul li {*/
-    /*    border-style: solid;*/
-    /*    border-color: white;*/
-    /*    text-align: center;*/
-    /*    background: #292929;*/
-    /*    !*position: absolute;*!*/
-
-    /*    top: 0;*/
-    /*    left: 0;*/
-    /*    margin-left: 0;*/
-    /*    width: 100%;*/
-
-    /*    -webkit-animation: fadein 2s; !* Safari, Chrome and Opera > 12.1 *!*/
-    /*    -moz-animation: fadein 2s; !* Firefox < 16 *!*/
-    /*    -o-animation: fadein 2s; !* Opera < 12.1 *!*/
-    /*    animation: fadein 2s;*/
-
-    /*    z-index: 2;*/
-    /*    position: fixed;*/
-    /*}*/
-}
-
-/*EXPERIMENTAL*/
 /* Style the navigation menu */
 .topnav {
     overflow: hidden;
@@ -309,6 +273,7 @@ body {
 
 /* Style the hamburger menu */
 .topnav a.icon {
+    color: white;
     background: black;
     display: block;
     position: absolute;

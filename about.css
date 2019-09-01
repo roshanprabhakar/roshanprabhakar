@@ -197,9 +197,34 @@ h3 {
     color: #111;
 }
 
+.formatted-link {
+    border-bottom: dotted;
+    text-decoration: none;
+    border-width: 1px;
+    color: #111;
+
+    -moz-transition: color 0.2s ease, border-bottom 0.2s ease;
+    -webkit-transition: color 0.2s ease, border-bottom 0.2s ease;
+    -ms-transition: color 0.2s ease, border-bottom 0.2s ease;
+    transition: color 0.2s ease, border-bottom 0.2s ease;
+    /*border-bottom: dotted 1px;*/
+}
+
+.formatted-link:hover {
+    border-bottom-color: transparent;
+    cursor: auto;
+}
+
 /* Turn off parallax scrolling for tablets and phones */
 @media only screen and (max-device-width: 1024px) {
     .bgimg-1, .bgimg-2, .bgimg-3 {
         background-attachment: scroll;
+    }
+}
+
+
+@media (max-width: 1000px) {
+    .aboutnav {
+        display: none;
     }
 }
