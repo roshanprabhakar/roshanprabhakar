@@ -184,8 +184,8 @@ body {
 
     top: 50%;
     left: 50%;
-    margin-left: -400px;
-    width: 800px;
+    margin-left: -450px;
+    width: 900px;
 
     -webkit-animation: fadein 4s; /* Safari, Chrome and Opera > 12.1 */
     -moz-animation: fadein 4s; /* Firefox < 16 */
@@ -195,7 +195,7 @@ body {
 
 @font-face {
     font-family: Montserrat;
-    src: url("../RoshanPrabhakar/montserrat/Montserrat-Thin.otf");
+    src: url("Assets/montserrat/Montserrat-Thin.otf");
 }
 
 @keyframes fadein {
@@ -291,6 +291,15 @@ body {
 .active {
     background-color: rgba(41, 41, 41, 0.2);
     color: white;
+}
+
+#filler {
+    position: relative;
+    width: 100%;
+    height: 100px;
+    color: orange;
+    z-index: 9999;
+
 }
 
 @media (min-width: 1000px) {
