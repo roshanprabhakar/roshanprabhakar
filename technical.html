@@ -7,29 +7,48 @@
     <link rel="stylesheet" href="./technical.css">
     <link rel="stylesheet" href="Assets/Libraries/animations.css">
 
+    <script src="./Assets/Libraries/jquery-3.3.1.min.js"></script>
+
+    <script src="https://kit.fontawesome.com/61eb020609.js"></script>
+    <script src="https://kit.fontawesome.com/61eb020609.js"></script>
+
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
     <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
 </head>
+
+<script>
+    $(function () {
+        AOS.init({});
+    });
+    $(window).on('load', function () {
+        AOS.refresh();
+    });
+</script>
+
 <body>
 
-<div id="header">
-    <h1>Technical Skills</h1>
-    <h3>Student Developer</h3>
-</div>
+<div id="particles-js"></div>
 
+<script src="./Assets/Libraries/particles.js-master/particles.js"></script>
+<script src="./Assets/Libraries/particles.js-master/demo/js/app.js"></script>
 
-<ul class="menu-area">
-    <li><a href="index.html" target="">Home</a></li>
-    <li><a href="guitar.html">Guitar</a></li>
-    <li><a href="https://github.com/roshanprabhakar" target="_blank">GitHub</a></li>
-    <li><a href="https://www.youtube.com/playlist?list=PLFg6mv0-5TkYwTg7dSlXgCTzBl73SR0Ya">Youtube</a></li>
-    <li><a href="mailto:roshan@aprabhakar.com?subject=Inquiry" target="">Email</a></li>
-</ul>
+<!--<ul class="menu-area">-->
+<!--    <li><a href="index.html" target="">Home</a></li>-->
+<!--    <li><a href="guitar.html">Guitar</a></li>-->
+<!--    <li><a href="https://github.com/roshanprabhakar" target="_blank">GitHub</a></li>-->
+<!--    <li><a href="https://www.youtube.com/playlist?list=PLFg6mv0-5TkYwTg7dSlXgCTzBl73SR0Ya">Youtube</a></li>-->
+<!--    <li><a href="mailto:roshan@aprabhakar.com?subject=Inquiry" target="">Email</a></li>-->
+<!--</ul>-->
 
+<div id="technical-skills">
 
-<div>
-    <div id="technical-container">
-        <div class="expertise-section">
+    <div class="header" data-aos="fade-up">
+        <h1 class="header-text">Technical Skills</h1>
+        <h3 class="header-text">Student Developer</h3>
+    </div>
+
+    <div class="container" data-aos="fade-up">
+        <div class="expertise-section" >
             <h2 id="subtitle">Machine Learning</h2>
             <ul>
                 <li>Image Analysis and Segmentation</li>
@@ -38,6 +57,20 @@
                 <li>Data Visualization</li>
                 <li>Natural Language Processing</li>
                 <li>OpenCV</li>
+            </ul>
+        </div>
+        <div class="expertise-section">
+            <h2>Technical Experience</h2>
+            <ul>
+                <li>Senior Programming Member FHS Robotics 2018-2019</li>
+                <li>Streemsets Inc. Internship</li>
+                <li>Web development leader FHS Programming Club</li>
+                <li><a href="https://compression.stanford.edu">Stanford STEM to SHTEM Internship</a></li>
+                <li>Open-source ML (<a href="https://github.com/roshanprabhakar">Github</a>)</li>
+                <li><a href="http://scottcmiel.cf">Scott Cmiel Website</a></li>
+                <li><a href="">Ross Thompson Website</a></li>
+                <li><a href="http://fhsprogramming.tech">FHS Programming Club Website</a></li>
+                <li><a href="http://firebirdhacks.com">FirebirdHacks 2020 Website</a></li>
             </ul>
         </div>
         <div class="expertise-section">
@@ -64,20 +97,6 @@
             </ul>
         </div>
         <div class="expertise-section">
-            <h2>Technical Experience</h2>
-            <ul>
-                <li>Senior Programming Member FHS Robotics 2018-2019</li>
-                <li>Streemsets Inc. Internship</li>
-                <li>Web development leader FHS Programming Club</li>
-                <li>Stanford STEM to SHTEM Internship</li>
-                <li>Open-source ML (Github)</li>
-                <li>Scott Cmiel Website</li>
-                <li>Ross Thompson Website</li>
-                <li>FHS Programming Club Website</li>
-                <li>FirebirdHacks Website</li>
-            </ul>
-        </div>
-        <div class="expertise-section">
             <h2>Languages</h2>
             <ul>
                 <li>Java</li>
@@ -93,6 +112,80 @@
                 <li>CSS, HTML, Javascript</li>
                 <li>JQuery</li>
                 <li>Bootstrap</li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<div id="guitar">
+
+    <div class="header" data-aos="fade-up">
+        <h1 class="header-text">Musician</h1>
+        <h3 class="header-text">Guitarist</h3>
+    </div>
+
+    <div class="container" data-aos="fade-up">
+        <div class="guitar-section">
+            <h2>Featured Concerts</h2>
+            <ul>
+                <li>SFCM Showcase Concert 2017</li>
+                <li>SFCM Showcase Concert 2018</li>
+                <li>Tango en Skai - Dyens</li>
+                <li>Slide - Reade Park</li>
+                <li>Sierra Nevada Classical Guitar Competition</li>
+            </ul>
+            <p></p>
+        </div>
+        <div class="guitar-section">
+            <h2>Recent Accolades</h2>
+            <ul>
+                <li>Sierra Nevada 2018 - 1st</li>
+                <li>Junior Bach Festival 2018 - Honorary Mention</li>
+                <li>RCM Level 8 Completion</li>
+                <li>RCM Level 9 Completion</li>
+            </ul>
+        </div>
+        <div class="guitar-section">
+            <h2>Organizations</h2>
+            <ul>
+                <li>Sillicon Valley Classical Guitar School</li>
+                <li>San Francisco Conservatory of Music</li>
+                <li>SFCM Guitar Advanced Ensemble 2</li>
+                <li></li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<div id="community">
+
+    <div class="header" data-aos="fade-up">
+        <h1>Community Endeavours</h1>
+        <h3>Student, Civil Servant</h3>
+    </div>
+
+    <div class="container" data-aos="fade-up">
+        <div class="community-section">
+            <h2>Programming</h2>
+            <ul>
+                <li>FroniterHacks - Organization</li>
+                <p class="description"></p>
+                <li>FirebirdHacks - Organization / Website</li>
+                <p class="description"></p>
+                <li>QuizGrader</li>
+                <p class="description"></p>
+
+            </ul>
+        </div>
+        <div class="community-section">
+            <h2>Music</h2>
+            <ul>
+                <li>Senior Center Charity Event</li>
+                <p class="description"></p>
+                <li>Website - Scott Cmiel</li>
+                <p class="description"></p>
+                <li>Website - Ross Thompson</li>
+                <p class="description"></p>
             </ul>
         </div>
     </div>

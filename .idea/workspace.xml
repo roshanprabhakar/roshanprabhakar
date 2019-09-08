@@ -2,92 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1e183dbe-9e4a-4d2d-a62b-e22dd16e321e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/flex.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flexboxtrial.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/awesome-logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/five.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/four.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/one.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/social-icons.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/three.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/two.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/technical.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/technical.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlowerClassifier.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Images/FlowerClassifier.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GithubProfile.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Images/GithubProfile.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plan.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/QGLogo.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Images/QGLogo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.css" beforeDir="false" afterPath="$PROJECT_DIR$/guitar.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/guitar.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/animations.css" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Libraries/animations.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/background.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Images/background.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ensemble.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Images/ensemble.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/favicon/android-chrome-192x192.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/favicon/android-chrome-192x192.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/favicon/android-chrome-512x512.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/favicon/android-chrome-512x512.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/favicon/apple-touch-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/favicon/apple-touch-icon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/favicon/favicon-16x16.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/favicon/favicon-16x16.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/favicon/favicon-32x32.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/favicon/favicon-32x32.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/favicon/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/favicon/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/favicon/site.webmanifest" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/favicon/site.webmanifest" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/guitar.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Images/guitar.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery-3.3.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Libraries/jquery-3.3.1.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/montserrat/Montserrat-Black.otf" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/montserrat/Montserrat-Black.otf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/montserrat/Montserrat-BlackItalic.otf" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/montserrat/Montserrat-BlackItalic.otf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/montserrat/Montserrat-Bold.otf" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/montserrat/Montserrat-Bold.otf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/montserrat/Montserrat-BoldItalic.otf" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/montserrat/Montserrat-BoldItalic.otf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/montserrat/Montserrat-ExtraBold.otf" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/montserrat/Montserrat-ExtraBold.otf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/montserrat/Montserrat-ExtraBoldItalic.otf" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/montserrat/Montserrat-ExtraBoldItalic.otf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/montserrat/Montserrat-ExtraLight.otf" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/montserrat/Montserrat-ExtraLight.otf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/montserrat/Montserrat-ExtraLightItalic.otf" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/montserrat/Montserrat-ExtraLightItalic.otf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/montserrat/Montserrat-Italic.otf" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/montserrat/Montserrat-Italic.otf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/montserrat/Montserrat-Light.otf" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/montserrat/Montserrat-Light.otf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/montserrat/Montserrat-LightItalic.otf" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/montserrat/Montserrat-LightItalic.otf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/montserrat/Montserrat-Medium.otf" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/montserrat/Montserrat-Medium.otf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/montserrat/Montserrat-MediumItalic.otf" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/montserrat/Montserrat-MediumItalic.otf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/montserrat/Montserrat-Regular.otf" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/montserrat/Montserrat-Regular.otf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/montserrat/Montserrat-SemiBold.otf" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/montserrat/Montserrat-SemiBold.otf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/montserrat/Montserrat-SemiBoldItalic.otf" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/montserrat/Montserrat-SemiBoldItalic.otf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/montserrat/Montserrat-Thin.otf" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/montserrat/Montserrat-Thin.otf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/montserrat/Montserrat-ThinItalic.otf" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/montserrat/Montserrat-ThinItalic.otf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/montserrat/MontserratAlternates-Black.otf" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/montserrat/MontserratAlternates-Black.otf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/montserrat/MontserratAlternates-BlackItalic.otf" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/montserrat/MontserratAlternates-BlackItalic.otf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/montserrat/MontserratAlternates-Bold.otf" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/montserrat/MontserratAlternates-Bold.otf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/montserrat/MontserratAlternates-BoldItalic.otf" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/montserrat/MontserratAlternates-BoldItalic.otf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/montserrat/MontserratAlternates-ExtraBold.otf" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/montserrat/MontserratAlternates-ExtraBold.otf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/montserrat/MontserratAlternates-ExtraBoldItalic.otf" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/montserrat/MontserratAlternates-ExtraBoldItalic.otf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/montserrat/MontserratAlternates-ExtraLight.otf" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/montserrat/MontserratAlternates-ExtraLight.otf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/montserrat/MontserratAlternates-ExtraLightItalic.otf" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/montserrat/MontserratAlternates-ExtraLightItalic.otf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/montserrat/MontserratAlternates-Italic.otf" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/montserrat/MontserratAlternates-Italic.otf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/montserrat/MontserratAlternates-Light.otf" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/montserrat/MontserratAlternates-Light.otf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/montserrat/MontserratAlternates-LightItalic.otf" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/montserrat/MontserratAlternates-LightItalic.otf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/montserrat/MontserratAlternates-Medium.otf" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/montserrat/MontserratAlternates-Medium.otf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/montserrat/MontserratAlternates-MediumItalic.otf" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/montserrat/MontserratAlternates-MediumItalic.otf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/montserrat/MontserratAlternates-Regular.otf" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/montserrat/MontserratAlternates-Regular.otf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/montserrat/MontserratAlternates-SemiBold.otf" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/montserrat/MontserratAlternates-SemiBold.otf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/montserrat/MontserratAlternates-SemiBoldItalic.otf" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/montserrat/MontserratAlternates-SemiBoldItalic.otf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/montserrat/MontserratAlternates-Thin.otf" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/montserrat/MontserratAlternates-Thin.otf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/montserrat/MontserratAlternates-ThinItalic.otf" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/montserrat/MontserratAlternates-ThinItalic.otf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/montserrat/SIL Open Font License.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/montserrat/SIL Open Font License.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/particles.js-master/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Libraries/particles.js-master/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/particles.js-master/LICENSE.md" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Libraries/particles.js-master/LICENSE.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/particles.js-master/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Libraries/particles.js-master/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/particles.js-master/bower.json" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Libraries/particles.js-master/bower.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/particles.js-master/demo/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Libraries/particles.js-master/demo/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/particles.js-master/demo/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Libraries/particles.js-master/demo/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/particles.js-master/demo/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Libraries/particles.js-master/demo/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/particles.js-master/demo/js/lib/stats.js" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Libraries/particles.js-master/demo/js/lib/stats.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/particles.js-master/demo/particles.json" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Libraries/particles.js-master/demo/particles.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/particles.js-master/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Libraries/particles.js-master/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/particles.js-master/particles.js" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Libraries/particles.js-master/particles.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/particles.js-master/particles.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proclublogo.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Images/proclublogo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/profile.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Images/profile.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/removeBanner.js" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Libraries/removeBanner.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shtem.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Images/shtem.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solo.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Images/solo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Libraries/particles.js-master/demo/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Libraries/particles.js-master/demo/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/guitar.html" beforeDir="false" afterPath="$PROJECT_DIR$/guitar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/technical.css" beforeDir="false" afterPath="$PROJECT_DIR$/technical.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/technical.html" beforeDir="false" afterPath="$PROJECT_DIR$/technical.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -254,14 +173,8 @@
       <workItem from="1567318699823" duration="683000" />
       <workItem from="1567320384729" duration="594000" />
       <workItem from="1567732205192" duration="3028000" />
-      <workItem from="1567799310185" duration="8797000" />
-    </task>
-    <task id="LOCAL-00001" summary="initial commit">
-      <created>1553223357661</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1553223357661</updated>
+      <workItem from="1567799310185" duration="9735000" />
+      <workItem from="1567894993833" duration="7234000" />
     </task>
     <task id="LOCAL-00002" summary="sped up alligning">
       <created>1553231109414</created>
@@ -592,7 +505,21 @@
       <option name="project" value="LOCAL" />
       <updated>1567319349126</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="added technical skills page, styled and with info">
+      <created>1567828433492</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1567828433492</updated>
+    </task>
+    <task id="LOCAL-00050" summary="removed unnecessary files">
+      <created>1567828508943</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1567828508944</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -613,8 +540,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="added second section in about, fixed menues" />
-    <MESSAGE value="adding unversioned res files" />
     <MESSAGE value="changed font stylings" />
     <MESSAGE value="added animations and link to youtube" />
     <MESSAGE value="added unversioned files" />
@@ -638,6 +563,8 @@
     <MESSAGE value="hyperlinked regression model for flower classifier" />
     <MESSAGE value="added experimental menu bar" />
     <MESSAGE value="updated about me page, edited nav" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated about me page, edited nav" />
+    <MESSAGE value="added technical skills page, styled and with info" />
+    <MESSAGE value="removed unnecessary files" />
+    <option name="LAST_COMMIT_MESSAGE" value="removed unnecessary files" />
   </component>
 </project>
