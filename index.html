@@ -1,109 +1,273 @@
 <!DOCTYPE html>
-
-
+<html lang="en">
 <head>
-
+    <meta charset="UTF-8">
     <title>Roshan Prabhakar</title>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <link rel="stylesheet" type="text/css" href="./style.css">
+    <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="Assets/Libraries/animations.css">
 
-    <link rel="apple-touch-icon" sizes="180x180" href="Assets/favicon/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="Assets/favicon/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="Assets/favicon/favicon-16x16.png">
-    <link rel="manifest" href="Assets/favicon/site.webmanifest">
+    <script src="./Assets/Libraries/jquery-3.3.1.min.js"></script>
 
     <script src="https://kit.fontawesome.com/61eb020609.js"></script>
     <script src="https://kit.fontawesome.com/61eb020609.js"></script>
 
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
     <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
-
 </head>
 
+<script>
+    $(function () {
+        AOS.init({});
+    });
+    $(window).on('load', function () {
+        AOS.refresh();
+    });
+</script>
+
 <body>
+
 <div id="particles-js"></div>
 
 <script src="./Assets/Libraries/particles.js-master/particles.js"></script>
 <script src="./Assets/Libraries/particles.js-master/demo/js/app.js"></script>
 
-<div class="content">
-    <!--<div class="background"></div>-->
-    <div class="drop">
-        <ul class="fly-in-text hidden">
-            <li class="fly">R</li>
-            <li class="fly">O</li>
-            <li class="fly">S</li>
-            <li class="fly">H</li>
-            <li class="fly">A</li>
-            <li class="fly">N</li>
-        </ul>
+<div id="home">
+
+    <div class="header" data-aos="fade-up">
+        <h1 class="header-text">Roshan Prabhakar</h1>
+        <h3 class="header-text">Developer, Musician, Student, Leader</h3>
     </div>
 
-    <nav class="slideUp nav1">
-        <div class="menu">
-            <ul class="menu-area">
-                <li><a href="index.html" target="">Home</a></li>
-                <li><a href="guitar.html">Guitar</a></li>
-                <li><a href="technical.html">Technical Skills</a></li>
-                <li><a href="https://github.com/roshanprabhakar" target="_blank">GitHub</a></li>
-                <li><a href="https://www.youtube.com/playlist?list=PLFg6mv0-5TkYwTg7dSlXgCTzBl73SR0Ya">Youtube</a></li>
-                <li><a href="mailto:roshan@aprabhakar.com?subject=Inquiry" target="">Email</a></li>
+    <div class="container" data-aos="fade-up">
+        <div class="home-section" data-aos="fade-up">
+            <h2>Student</h2>
+            <ul>
+                <li>Fremont High School</li>
+                <li>FHS Programming Club</li>
+                <li>Firebot Robotics FRC 2018-2019</li>
+                <li>National Honor Society</li>
             </ul>
         </div>
-    </nav>
-
-    <div class="topnav">
-        <a href="" class="active">Roshan</a>
-        <!-- Navigation links (hidden by default) -->
-        <div id="myLinks">
-            <a href="index.html">Home</a>
-            <a href="guitar.html">Guitar</a>
-            <a href="technical.html">Technical Skills</a>
-            <a href="https://github.com/roshanprabhakar">GitHub</a>
-            <a href="https://www.youtube.com/channel/UCW_vEJuyZRK67az4vhdO7Xg?view_as=subscriber">YouTube</a>
-            <a href="mailto:roshan@aprabhakar.com?subject=Inquiry" target="">Email</a>
+        <div class="home-section" data-aos="fade-up">
+            <h2>Musician</h2>
+            <ul>
+                <li>San Francisco Conservatory of Music Alumni</li>
+                <li>Sierra Nevada 2018</li>
+                <li>Junior Bach Festival 2018</li>
+                <li>Global Online Great Composers Competition 2018</li>
+                <li>Teacher</li>
+                <li>Mentor</li>
+            </ul>
         </div>
-        <!-- "Hamburger menu" / "Bar icon" to toggle the navigation links -->
-        <a href="javascript:void(0);" class="icon" onclick="mobileNav()">
-            <i class="fa fa-bars"></i>
-        </a>
+        <div class="home-section" data-aos="fade-up">
+            <h2>Developer</h2>
+            <ul>
+                <li>STEM to SHTEM Stanford University</li>
+                <li>Streamsets 2018</li>
+                <li>QuizGrader</li>
+                <li>Web Development</li>
+                <li>Machine Learning</li>
+                <li>OutsideHacks Finalist 2018</li>
+            </ul>
+        </div>
+
+        <div class="home-section" data-aos="fade-up">
+            <h2>Leader</h2>
+            <ul>
+                <li>STEM to SHTEM Stanford University</li>
+                <li>FrontierHacks</li>
+                <li>FirebirdHacks</li>
+                <li>Lead Developer - QuizGrader</li>
+                <li>FHS Robotics Senior Member - 2019</li>
+            </ul>
+        </div>
     </div>
 </div>
 
-<div id="filler"></div>
+<div id="technical-skills">
 
+    <div class="header" data-aos="fade-up">
+        <h1 class="header-text">Technical Skills</h1>
+        <h3 class="header-text">Student Developer</h3>
+    </div>
 
-<script>
+    <div class="container" data-aos="fade-up">
+        <div class="expertise-section" data-aos="fade-up">
+            <h2>Machine Learning</h2>
+            <ul>
+                <li>Image Analysis and Segmentation</li>
+                <li>Neural Networks</li>
+                <li>Statistical Data Analysis</li>
+                <li>Data Visualization</li>
+                <li>Natural Language Processing</li>
+                <li>OpenCV</li>
+            </ul>
+        </div>
+        <div class="expertise-section" data-aos="fade-up">
+            <h2>Technical Experience</h2>
+            <ul>
+                <li>Senior Programming Member FHS Robotics 2018-2019</li>
+                <li>Streemsets Inc. Internship</li>
+                <li>Web development leader FHS Programming Club</li>
+                <li><a href="https://compression.stanford.edu">Stanford STEM to SHTEM Internship</a></li>
+                <li>Open-source ML (<a href="https://github.com/roshanprabhakar">Github</a>)</li>
+                <li><a href="http://scottcmiel.cf">Scott Cmiel Website</a></li>
+                <li><a href="">Ross Thompson Website</a></li>
+                <li><a href="http://fhsprogramming.tech">FHS Programming Club Website</a></li>
+                <li><a href="http://firebirdhacks.com">FirebirdHacks 2020 Website</a></li>
+            </ul>
+        </div>
+        <div class="expertise-section" data-aos="fade-up">
+            <h2>Organizations</h2>
+            <ul>
+                <li>Frontier Hacks - 2020</li>
+                <li>Firebird Hacks - 2020</li>
+                <li>FHS Programming Club</li>
+                <li>Streamsets Inc.</li>
+                <li>Stanford STEM to SHTEM</li>
+            </ul>
+        </div>
+        <div class="expertise-section" data-aos="fade-up">
+            <h2>Recent Technical Accolades</h2>
+            <ul>
+                <li>Top 5 SV Hacks 2018</li>
+                <li>Top 5 OutsideHacks @ Twitch 2018</li>
+                <li>Top 5 SM Hacks</li>
+                <li>SIP Admittance 2018 CSE09</li>
+                <li>
+                    <a href="https://theinformaticists.com/2019/08/28/building-a-human-centric-lossy-compressor-for-facial-images/">Image
+                        Compression Article</a> (<a href="https://theinformaticists.com" target="">The
+                    Informaticists</a>) 2019
+                </li>
+            </ul>
+        </div>
+        <div class="expertise-section" data-aos="fade-up">
+            <h2>Languages</h2>
+            <ul>
+                <li>Java</li>
+                <li>Python</li>
+                <li>Html</li>
+                <li>CSS</li>
+                <li>Javascript</li>
+                <li>Arduino C</li>
+            </ul>
+        </div>
+        <div class="expertise-section" data-aos="fade-up">
+            <h2>Web Development and Design</h2>
+            <ul>
+                <li>CSS, HTML, Javascript</li>
+                <li>JQuery</li>
+                <li>Bootstrap</li>
+            </ul>
+        </div>
+        <div class="expertise-section" data-aos="fade-up">
+            <h2>Featured Projects</h2>
+            <ul>
+                <li><a href="https://github.com/roshanprabhakar/QuizGrader">QuizGrader</a></li>
+                <li><a href="https://github.com/roshanprabhakar/FlowerClassifier">FlowerClassifier</a></li>
+                <li><a href="https://github.com/roshanprabhakar/mnist-OCR">MNIST-OCR</a></li>
+                <li><a href="https://github.com/roshanprabhakar/FacialHAAC">FacialHAAC</a></li>
+                <li><a href="https://github.com/roshanprabhakar/ColorReplacer">ColorReplacer</a></li>
+                <li><a href="https://github.com/roshanprabhakar/Tracer">Tracer</a></li>
+                <li><a href="https://github.com/roshanprabhakar/ImageProcessingTemplate">Image Processing Template</a>
+                </li>
+            </ul>
+        </div>
+        <div class="expertise-section" data-aos="fade-up">
+            <a href="https://github.com/roshanprabhakar"><i class="fab fa-github" id="github"></i></a>
+            <a href="mailto:roshan@aprabhakar.com?subject=Inquiry"><i class="fas fa-envelope" id="gmail"></i></a>
+            <a href="https://www.linkedin.com/in/roshan-prabhakar-3a504b16a/"><i class="fab fa-linkedin-in" id="linkedin"></i></a>
+        </div>
+    </div>
+</div>
 
-    function mobileNav() {
-        var x = document.getElementById("myLinks");
-        var list = document.getElementsByClassName("fly");
-        if (x.style.display === "block") {
-            x.style.display = "none";
-            for (var i = 0; i < list.length; i++) {
-                list[i].style.display = "inline-block";
-            }
-        } else {
-            x.style.display = "block";
-            for (var j = 0; j < list.length; j++) {
-                list[i].style.display = "flow";
-            }
-        }
-    }
-</script>
+<div id="guitar">
 
-<script type="text/javascript" src="Assets/Libraries/jquery-3.3.1.min.js"></script>
-<script src="Assets/Libraries/removeBanner.js"></script>
+    <div class="header" data-aos="fade-up">
+        <h1 class="header-text">Musician</h1>
+        <h3 class="header-text">Guitarist</h3>
+    </div>
 
-<script type="text/javascript">
-    $(function () {
-        setTimeout(function () {
-            $('.fly-in-text').removeClass('hidden')
-        }, 1000);
-    });
-</script>
+    <div class="container" data-aos="fade-up">
+        <div class="guitar-section" data-aos="fade-up">
+            <h2>Featured Concerts</h2>
+            <ul>
+                <li>SFCM Showcase Concert 2017</li>
+                <li>SFCM Showcase Concert 2018</li>
+                <li>Tango en Skai - Dyens</li>
+                <li>Slide - Reade Park</li>
+                <li>Sierra Nevada Classical Guitar Competition</li>
+            </ul>
+            <p></p>
+        </div>
+        <div class="guitar-section" data-aos="fade-up">
+            <h2>Recent Accolades</h2>
+            <ul>
+                <li>Sierra Nevada 2018 - 1st</li>
+                <li>Junior Bach Festival 2018 - Honorary Mention</li>
+                <li>RCM Level 8 Completion</li>
+                <li>RCM Level 9 Completion</li>
+                <li><a href="http://www.gccseries.online/2019/05/results-music-of-20th-century-4th.html">Global Online
+                    Great Composers Competition - 2nd (A.G. 4) 2018</a></li>
+            </ul>
+        </div>
+        <div class="guitar-section" data-aos="fade-up">
+            <h2>Organizations</h2>
+            <ul>
+                <li>Sillicon Valley Classical Guitar School</li>
+                <li>San Francisco Conservatory of Music</li>
+                <li>SFCM Guitar Advanced Ensemble 2</li>
+                <li></li>
+            </ul>
+        </div>
+        <div class="guitar-section">
+            <h2>YouTube</h2>
+            <ul>
+                <li><a href="https://www.youtube.com/watch?v=dBZkYcgK81k&list=PLFg6mv0-5TkZKcxLf21_Hbon6vbEin-cR">Solo Performances</a></li>
+                <li><a href="https://www.youtube.com/watch?v=d66VZH4mI7M&list=PLFg6mv0-5TkaCogAFr2mZ9bXm50recLKY">Ensemble Performances</a></li>
+                <li><a href="https://www.youtube.com/watch?v=dBZkYcgK81k&list=PLFg6mv0-5TkYwTg7dSlXgCTzBl73SR0Ya">All</a></li>
+            </ul>
+        </div>
+        <div class="guitar-section">
+            <a href="https://www.youtube.com/channel/UCId8mDeaTU4VKgx9visnnwg?view_as=subscriber"><i class="fab fa-youtube" id="youtube"></i></a>
+        </div>
+    </div>
+</div>
+
+<div id="community">
+
+    <div class="header" data-aos="fade-up">
+        <h1>Community Endeavours</h1>
+        <h3>Student, Civil Servant</h3>
+    </div>
+
+    <div class="container" data-aos="fade-up">
+        <div class="community-section" data-aos="fade-up">
+            <h2>Programming</h2>
+            <ul>
+                <li>FroniterHacks - Organization</li>
+                <p class="description"></p>
+                <li>FirebirdHacks - Organization / Website</li>
+                <p class="description"></p>
+                <li>QuizGrader</li>
+                <p class="description"></p>
+
+            </ul>
+        </div>
+        <div class="community-section" data-aos="fade-up">
+            <h2>Music</h2>
+            <ul>
+                <li>Senior Center Charity Event</li>
+                <p class="description"></p>
+                <li>Website - Scott Cmiel</li>
+                <p class="description"></p>
+                <li>Website - Ross Thompson</li>
+                <p class="description"></p>
+            </ul>
+        </div>
+    </div>
+</div>
+
 </body>
-
+</html>
