@@ -1,6 +1,7 @@
 * {
     margin: 0;
-    --expertise-margin: 1%
+    --expertise-margin: 1%;
+    --icon-length: 200px;
 }
 
 body {
@@ -79,6 +80,46 @@ a:hover:before {
     z-index: -1;
 }
 
+#github {
+    width: var(--icon-length);
+    height: var(--icon-length);
+    transition: ease-in-out 0.3s;
+}
+
+#github:hover {
+    color: white;
+}
+
+#gmail {
+    height: var(--icon-length);
+    width: var(--icon-length);
+    transition: ease-in-out 0.3s;
+}
+
+#gmail:hover {
+    color: white;
+}
+
+#linkedin {
+    height: var(--icon-length);
+    width: var(--icon-length);
+    transition: ease-in-out 0.3s;
+}
+
+#linkedin:hover {
+    color: white;
+}
+
+#youtube {
+    height: var(--icon-length);
+    width: var(--icon-length);
+    transition: ease-in-out 0.3s;
+}
+
+#youtube:hover {
+    color: white;
+}
+
 /*.menu-area {*/
 /*    margin-top: 2%;*/
 /*    margin-left: calc(6% + var(--expertise-margin));*/
@@ -145,6 +186,7 @@ a:hover:before {
     padding: var(--expertise-margin);
     width: 40%;
     min-width: 500px;
+    /*border-style: solid;*/
 }
 
 .expertise-section {

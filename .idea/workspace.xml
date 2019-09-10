@@ -176,13 +176,7 @@
       <workItem from="1567971143225" duration="142000" />
       <workItem from="1567997829744" duration="396000" />
       <workItem from="1568056803629" duration="2053000" />
-    </task>
-    <task id="LOCAL-00004" summary="removed image, changed index style">
-      <created>1555107192436</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1555107192436</updated>
+      <workItem from="1568074056297" duration="2751000" />
     </task>
     <task id="LOCAL-00005" summary="removed image, changed index style">
       <created>1555107650525</created>
@@ -520,7 +514,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567971226996</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="added home section">
+      <created>1568074148031</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1568074148031</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -541,7 +542,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="added unversioned files" />
     <MESSAGE value="fixed fonts" />
     <MESSAGE value="fixed font mismatch" />
     <MESSAGE value="fixed link" />
@@ -566,6 +566,7 @@
     <MESSAGE value="removed unnecessary files" />
     <MESSAGE value="Added data-aos, particles, and gradient to technical. Also styled text components" />
     <MESSAGE value="added technical skills page to mobile site" />
-    <option name="LAST_COMMIT_MESSAGE" value="added technical skills page to mobile site" />
+    <MESSAGE value="added home section" />
+    <option name="LAST_COMMIT_MESSAGE" value="added home section" />
   </component>
 </project>
