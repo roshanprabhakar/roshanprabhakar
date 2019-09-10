@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1e183dbe-9e4a-4d2d-a62b-e22dd16e321e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/guitar.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/guitar.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tangoBG.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/technical.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/technical.html" beforeDir="false" />
-    </list>
+    <list default="true" id="1e183dbe-9e4a-4d2d-a62b-e22dd16e321e" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -180,14 +172,7 @@
       <workItem from="1567971143225" duration="142000" />
       <workItem from="1567997829744" duration="396000" />
       <workItem from="1568056803629" duration="2053000" />
-      <workItem from="1568074056297" duration="2996000" />
-    </task>
-    <task id="LOCAL-00006" summary="added transitions to background">
-      <created>1555111484870</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1555111484870</updated>
+      <workItem from="1568074056297" duration="3053000" />
     </task>
     <task id="LOCAL-00007" summary="added transitions to background">
       <created>1555115090815</created>
@@ -525,7 +510,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568084242766</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="removed other html files">
+      <created>1568084433949</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1568084433949</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -546,7 +538,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="fixed font mismatch" />
     <MESSAGE value="fixed link" />
     <MESSAGE value="added div content" />
     <MESSAGE value="added quiz grader artwork" />
@@ -571,6 +562,7 @@
     <MESSAGE value="added technical skills page to mobile site" />
     <MESSAGE value="added home section" />
     <MESSAGE value="added content to technical" />
-    <option name="LAST_COMMIT_MESSAGE" value="added content to technical" />
+    <MESSAGE value="removed other html files" />
+    <option name="LAST_COMMIT_MESSAGE" value="removed other html files" />
   </component>
 </project>
