@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1e183dbe-9e4a-4d2d-a62b-e22dd16e321e" name="Default Changelist" comment="" />
+    <list default="true" id="1e183dbe-9e4a-4d2d-a62b-e22dd16e321e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/technical.css" beforeDir="false" afterPath="$PROJECT_DIR$/technical.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/technical.html" beforeDir="false" afterPath="$PROJECT_DIR$/technical.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -169,13 +173,9 @@
       <workItem from="1567732205192" duration="3028000" />
       <workItem from="1567799310185" duration="9735000" />
       <workItem from="1567894993833" duration="7543000" />
-    </task>
-    <task id="LOCAL-00003" summary="fixed aligning problem">
-      <created>1553273093791</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1553273093792</updated>
+      <workItem from="1567971143225" duration="142000" />
+      <workItem from="1567997829744" duration="396000" />
+      <workItem from="1568056803629" duration="2053000" />
     </task>
     <task id="LOCAL-00004" summary="removed image, changed index style">
       <created>1555107192436</created>
@@ -513,7 +513,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567926544431</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="added technical skills page to mobile site">
+      <created>1567971226995</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1567971226996</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -534,7 +541,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="added animations and link to youtube" />
     <MESSAGE value="added unversioned files" />
     <MESSAGE value="fixed fonts" />
     <MESSAGE value="fixed font mismatch" />
@@ -559,6 +565,7 @@
     <MESSAGE value="added technical skills page, styled and with info" />
     <MESSAGE value="removed unnecessary files" />
     <MESSAGE value="Added data-aos, particles, and gradient to technical. Also styled text components" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added data-aos, particles, and gradient to technical. Also styled text components" />
+    <MESSAGE value="added technical skills page to mobile site" />
+    <option name="LAST_COMMIT_MESSAGE" value="added technical skills page to mobile site" />
   </component>
 </project>

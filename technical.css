@@ -141,6 +141,12 @@ a:hover:before {
     /*padding-bottom: 5%;*/
 }
 
+.home-section {
+    padding: var(--expertise-margin);
+    width: 40%;
+    min-width: 500px;
+}
+
 .expertise-section {
     /*margin-top: var(--expertise-margin);*/
     /*margin-bottom: var(--expertise-margin);*/
