@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1e183dbe-9e4a-4d2d-a62b-e22dd16e321e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -177,14 +176,7 @@
       <workItem from="1568056803629" duration="2053000" />
       <workItem from="1568074056297" duration="3053000" />
       <workItem from="1568084930742" duration="968000" />
-      <workItem from="1568168264964" duration="706000" />
-    </task>
-    <task id="LOCAL-00009" summary="added ability to make content div disappear">
-      <created>1555186180068</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1555186180068</updated>
+      <workItem from="1568168264964" duration="1305000" />
     </task>
     <task id="LOCAL-00010" summary="removed disappear for nav in guitar page">
       <created>1555186276560</created>
@@ -522,7 +514,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568168315292</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="added complex animate on scroll">
+      <created>1568169168359</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1568169168360</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -543,7 +542,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="added quiz grader artwork" />
     <MESSAGE value="added youtube to menu bar, added developer section for flower classifier" />
     <MESSAGE value="added unversioned image files" />
     <MESSAGE value="increased spacing between fly in letters" />
@@ -568,6 +566,7 @@
     <MESSAGE value="removed other html files" />
     <MESSAGE value="added viewport meta" />
     <MESSAGE value="added aos to youtube section" />
-    <option name="LAST_COMMIT_MESSAGE" value="added aos to youtube section" />
+    <MESSAGE value="added complex animate on scroll" />
+    <option name="LAST_COMMIT_MESSAGE" value="added complex animate on scroll" />
   </component>
 </project>
