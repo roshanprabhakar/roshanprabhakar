@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1e183dbe-9e4a-4d2d-a62b-e22dd16e321e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -176,13 +177,7 @@
       <workItem from="1568056803629" duration="2053000" />
       <workItem from="1568074056297" duration="3053000" />
       <workItem from="1568084930742" duration="968000" />
-    </task>
-    <task id="LOCAL-00008" summary="fixed guitar layout, added stylings for guitar.html">
-      <created>1555182854147</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1555182854147</updated>
+      <workItem from="1568168264964" duration="706000" />
     </task>
     <task id="LOCAL-00009" summary="added ability to make content div disappear">
       <created>1555186180068</created>
@@ -520,7 +515,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568084968749</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="added aos to youtube section">
+      <created>1568168315291</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1568168315292</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -541,7 +543,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="added div content" />
     <MESSAGE value="added quiz grader artwork" />
     <MESSAGE value="added youtube to menu bar, added developer section for flower classifier" />
     <MESSAGE value="added unversioned image files" />
@@ -566,6 +567,7 @@
     <MESSAGE value="added content to technical" />
     <MESSAGE value="removed other html files" />
     <MESSAGE value="added viewport meta" />
-    <option name="LAST_COMMIT_MESSAGE" value="added viewport meta" />
+    <MESSAGE value="added aos to youtube section" />
+    <option name="LAST_COMMIT_MESSAGE" value="added aos to youtube section" />
   </component>
 </project>
