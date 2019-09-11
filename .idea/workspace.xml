@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1e183dbe-9e4a-4d2d-a62b-e22dd16e321e" name="Default Changelist" comment="" />
+    <list default="true" id="1e183dbe-9e4a-4d2d-a62b-e22dd16e321e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -173,13 +175,7 @@
       <workItem from="1567997829744" duration="396000" />
       <workItem from="1568056803629" duration="2053000" />
       <workItem from="1568074056297" duration="3053000" />
-    </task>
-    <task id="LOCAL-00007" summary="added transitions to background">
-      <created>1555115090815</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1555115090815</updated>
+      <workItem from="1568084930742" duration="968000" />
     </task>
     <task id="LOCAL-00008" summary="fixed guitar layout, added stylings for guitar.html">
       <created>1555182854147</created>
@@ -517,7 +513,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568084433949</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="added viewport meta">
+      <created>1568084968749</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1568084968749</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -538,7 +541,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="fixed link" />
     <MESSAGE value="added div content" />
     <MESSAGE value="added quiz grader artwork" />
     <MESSAGE value="added youtube to menu bar, added developer section for flower classifier" />
@@ -563,6 +565,7 @@
     <MESSAGE value="added home section" />
     <MESSAGE value="added content to technical" />
     <MESSAGE value="removed other html files" />
-    <option name="LAST_COMMIT_MESSAGE" value="removed other html files" />
+    <MESSAGE value="added viewport meta" />
+    <option name="LAST_COMMIT_MESSAGE" value="added viewport meta" />
   </component>
 </project>
