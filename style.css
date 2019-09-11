@@ -1,7 +1,8 @@
 * {
     margin: 0;
     --expertise-margin: 1%;
-    --icon-length: 200px;
+    --icon-length: 10em;
+    --min-icon-length: 50px;
 }
 
 body {
@@ -93,6 +94,8 @@ a:hover:before {
 #gmail {
     height: var(--icon-length);
     width: var(--icon-length);
+    min-height: var(--min-icon-length);
+    min-width: var(--min-icon-length);
     transition: ease-in-out 0.3s;
 }
 
@@ -103,6 +106,8 @@ a:hover:before {
 #linkedin {
     height: var(--icon-length);
     width: var(--icon-length);
+    min-height: var(--min-icon-length);
+    min-width: var(--min-icon-length);
     transition: ease-in-out 0.3s;
 }
 
@@ -113,6 +118,8 @@ a:hover:before {
 #youtube {
     height: var(--icon-length);
     width: var(--icon-length);
+    min-height: var(--min-icon-length);
+    min-width: var(--min-icon-length);
     transition: ease-in-out 0.3s;
 }
 
