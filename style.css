@@ -147,7 +147,10 @@ a:hover:before {
 /*    border-style: none;*/
 /*}*/
 
-
+.description {
+    font-family: Montserrat-Light;
+    margin-left: 10%;
+}
 
 #technical-skills {
     /*border-style: solid;*/

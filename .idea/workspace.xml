@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="1e183dbe-9e4a-4d2d-a62b-e22dd16e321e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -177,13 +179,8 @@
       <workItem from="1568074056297" duration="3053000" />
       <workItem from="1568084930742" duration="968000" />
       <workItem from="1568168264964" duration="3358000" />
-    </task>
-    <task id="LOCAL-00011" summary="added video for guitar">
-      <created>1555186625132</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1555186625132</updated>
+      <workItem from="1568241904847" duration="653000" />
+      <workItem from="1568260900903" duration="2241000" />
     </task>
     <task id="LOCAL-00012" summary="added footmark remover">
       <created>1558735741809</created>
@@ -521,7 +518,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568179181730</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="changed length of icon links">
+      <created>1568242074051</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1568242074051</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -542,7 +546,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="added unversioned image files" />
     <MESSAGE value="increased spacing between fly in letters" />
     <MESSAGE value="added programming club logo section" />
     <MESSAGE value="updated youtube links" />
@@ -567,6 +570,7 @@
     <MESSAGE value="added aos to youtube section" />
     <MESSAGE value="added complex animate on scroll" />
     <MESSAGE value="added aos to youtube link" />
-    <option name="LAST_COMMIT_MESSAGE" value="added aos to youtube link" />
+    <MESSAGE value="changed length of icon links" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed length of icon links" />
   </component>
 </project>
