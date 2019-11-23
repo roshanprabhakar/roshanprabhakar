@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1e183dbe-9e4a-4d2d-a62b-e22dd16e321e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1e183dbe-9e4a-4d2d-a62b-e22dd16e321e" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -191,13 +189,7 @@
       <workItem from="1572156672769" duration="629000" />
       <workItem from="1572841936800" duration="522000" />
       <workItem from="1574049095789" duration="19000" />
-    </task>
-    <task id="LOCAL-00013" summary="added particles.js">
-      <created>1559285359800</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1559285359800</updated>
+      <workItem from="1574493654108" duration="256000" />
     </task>
     <task id="LOCAL-00014" summary="reformatted particles.js">
       <created>1559285371281</created>
@@ -535,7 +527,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568263388496</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="updated flex item margins">
+      <created>1574493880046</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1574493880047</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -556,7 +555,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="added programming club logo section" />
     <MESSAGE value="updated youtube links" />
     <MESSAGE value="changed font styles for menu and title" />
     <MESSAGE value="added Montserrat Font" />
@@ -581,6 +579,7 @@
     <MESSAGE value="added aos to youtube link" />
     <MESSAGE value="changed length of icon links" />
     <MESSAGE value="added community service" />
-    <option name="LAST_COMMIT_MESSAGE" value="added community service" />
+    <MESSAGE value="updated flex item margins" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated flex item margins" />
   </component>
 </project>

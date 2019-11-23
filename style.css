@@ -236,6 +236,10 @@ a:hover:before {
     min-width: 400px;
 }
 
+.icon-section {
+    min-width: 500px;
+}
+
 @font-face {
     font-family: Montserrat-List;
     src: url("Assets/montserrat/Montserrat-Light.otf")
