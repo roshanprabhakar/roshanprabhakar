@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1e183dbe-9e4a-4d2d-a62b-e22dd16e321e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -180,14 +178,19 @@
       <workItem from="1568084930742" duration="968000" />
       <workItem from="1568168264964" duration="3358000" />
       <workItem from="1568241904847" duration="653000" />
-      <workItem from="1568260900903" duration="2241000" />
-    </task>
-    <task id="LOCAL-00012" summary="added footmark remover">
-      <created>1558735741809</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1558735741809</updated>
+      <workItem from="1568260900903" duration="2986000" />
+      <workItem from="1568962924745" duration="1289000" />
+      <workItem from="1569009420564" duration="5000" />
+      <workItem from="1569632197641" duration="6000" />
+      <workItem from="1570172665236" duration="1689000" />
+      <workItem from="1570212406557" duration="769000" />
+      <workItem from="1570419358697" duration="32000" />
+      <workItem from="1571522813023" duration="653000" />
+      <workItem from="1571603950249" duration="699000" />
+      <workItem from="1572102694756" duration="20000" />
+      <workItem from="1572156672769" duration="629000" />
+      <workItem from="1572841936800" duration="522000" />
+      <workItem from="1574049095789" duration="19000" />
     </task>
     <task id="LOCAL-00013" summary="added particles.js">
       <created>1559285359800</created>
@@ -525,7 +528,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568242074051</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="added community service">
+      <created>1568263388496</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1568263388496</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -546,7 +556,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="increased spacing between fly in letters" />
     <MESSAGE value="added programming club logo section" />
     <MESSAGE value="updated youtube links" />
     <MESSAGE value="changed font styles for menu and title" />
@@ -571,6 +580,7 @@
     <MESSAGE value="added complex animate on scroll" />
     <MESSAGE value="added aos to youtube link" />
     <MESSAGE value="changed length of icon links" />
-    <option name="LAST_COMMIT_MESSAGE" value="changed length of icon links" />
+    <MESSAGE value="added community service" />
+    <option name="LAST_COMMIT_MESSAGE" value="added community service" />
   </component>
 </project>

@@ -199,7 +199,7 @@ a:hover:before {
 .home-section {
     padding: var(--expertise-margin);
     width: 40%;
-    min-width: 500px;
+    min-width: 400px;
     /*border-style: solid;*/
 }
 
@@ -214,7 +214,7 @@ a:hover:before {
     /*margin-top: 1%;*/
     /*margin-right: 2%;*/
     width: 40%;
-    min-width: 500px;
+    min-width: 400px;
 }
 
 .expertise-section li {
@@ -226,14 +226,14 @@ a:hover:before {
 .guitar-section {
     padding: var(--expertise-margin);
     width: 40%;
-    min-width: 500px;
+    min-width: 400px;
     /*border-style: solid;*/
 }
 
 .community-section {
     padding: var(--expertise-margin);
     width: 40%;
-    min-width: 500px;
+    min-width: 400px;
 }
 
 @font-face {
