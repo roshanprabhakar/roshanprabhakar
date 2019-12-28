@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1e183dbe-9e4a-4d2d-a62b-e22dd16e321e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon_io/android-chrome-192x192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon_io/android-chrome-512x512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon_io/apple-touch-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon_io/favicon-16x16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon_io/favicon-32x32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon_io/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon_io/site.webmanifest" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -198,21 +203,7 @@
       <workItem from="1574049095789" duration="19000" />
       <workItem from="1574493654108" duration="322000" />
       <workItem from="1575446896985" duration="681000" />
-      <workItem from="1577477774932" duration="2651000" />
-    </task>
-    <task id="LOCAL-00015" summary="added about page">
-      <created>1559517751535</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1559517751536</updated>
-    </task>
-    <task id="LOCAL-00016" summary="added script animations on about page">
-      <created>1559531096161</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1559531096161</updated>
+      <workItem from="1577477774932" duration="2910000" />
     </task>
     <task id="LOCAL-00017" summary="added about page stylings">
       <created>1559788872268</created>
@@ -543,7 +534,21 @@
       <option name="project" value="LOCAL" />
       <updated>1574493964191</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="updated community endeavours">
+      <created>1577495222509</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1577495222509</updated>
+    </task>
+    <task id="LOCAL-00065" summary="removed favicon">
+      <created>1577495252935</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1577495252935</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -564,8 +569,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="changed font styles for menu and title" />
-    <MESSAGE value="added Montserrat Font" />
     <MESSAGE value="altered particles config. Also added animations and links for about page" />
     <MESSAGE value="made scrollings smooth and centered" />
     <MESSAGE value="changed font stylings of about me descriptions" />
@@ -589,6 +592,8 @@
     <MESSAGE value="added community service" />
     <MESSAGE value="updated flex item margins" />
     <MESSAGE value="updated link list in technical skills" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated link list in technical skills" />
+    <MESSAGE value="updated community endeavours" />
+    <MESSAGE value="removed favicon" />
+    <option name="LAST_COMMIT_MESSAGE" value="removed favicon" />
   </component>
 </project>
