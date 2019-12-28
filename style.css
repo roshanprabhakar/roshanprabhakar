@@ -12,6 +12,7 @@ body {
     /*background-image: url("images/overlay.png"), -webkit-linear-gradient(45deg, #e3cd00 15%, #ff000d 85%);*/
     /*background-image: url("images/overlay.png"), -ms-linear-gradient(45deg, #e3cd00 15%, #ff000d 85%);*/
     /*background-image: url("images/overlay.png"), linear-gradient(45deg, #e3cd00 15%, #ff000d 85%);*/
+    margin-bottom: 15%;
 }
 
 h1 {
@@ -162,7 +163,11 @@ a:hover:before {
 }
 
 #community {
-    margin-bottom: 15%;
+    /*margin-bottom: 15%;*/
+}
+
+#community-projects {
+
 }
 
 
@@ -231,6 +236,12 @@ a:hover:before {
 }
 
 .community-section {
+    padding: var(--expertise-margin);
+    width: 40%;
+    min-width: 400px;
+}
+
+.community-projects-section {
     padding: var(--expertise-margin);
     width: 40%;
     min-width: 400px;
