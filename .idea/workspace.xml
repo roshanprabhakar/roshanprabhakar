@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1e183dbe-9e4a-4d2d-a62b-e22dd16e321e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/favicon_io/android-chrome-192x192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/favicon_io/android-chrome-512x512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/favicon_io/apple-touch-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/favicon_io/favicon-16x16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/favicon_io/favicon-32x32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/favicon_io/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/favicon_io/site.webmanifest" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -203,14 +196,8 @@
       <workItem from="1574049095789" duration="19000" />
       <workItem from="1574493654108" duration="322000" />
       <workItem from="1575446896985" duration="681000" />
-      <workItem from="1577477774932" duration="2910000" />
-    </task>
-    <task id="LOCAL-00017" summary="added about page stylings">
-      <created>1559788872268</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1559788872268</updated>
+      <workItem from="1577477774932" duration="4193000" />
+      <workItem from="1578636019307" duration="100000" />
     </task>
     <task id="LOCAL-00018" summary="added about page stylings">
       <created>1559789217017</created>
@@ -548,7 +535,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577495252935</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="added appropriate favicon files">
+      <created>1577495543149</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1577495543149</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -569,7 +563,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="altered particles config. Also added animations and links for about page" />
     <MESSAGE value="made scrollings smooth and centered" />
     <MESSAGE value="changed font stylings of about me descriptions" />
     <MESSAGE value="fixed font sizes, changed hover stylings for youtube links" />
@@ -594,6 +587,7 @@
     <MESSAGE value="updated link list in technical skills" />
     <MESSAGE value="updated community endeavours" />
     <MESSAGE value="removed favicon" />
-    <option name="LAST_COMMIT_MESSAGE" value="removed favicon" />
+    <MESSAGE value="added appropriate favicon files" />
+    <option name="LAST_COMMIT_MESSAGE" value="added appropriate favicon files" />
   </component>
 </project>
